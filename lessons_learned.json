@@ -1,0 +1,477 @@
+[
+  {
+    "ticket_id": "232907858",
+    "data_sym": "ETH/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-06-02T14:39:11.271925+00:00",
+    "lesson": "When the nearest major level is an SR_FLIP_RESISTANCE with 6+ touches and price is within 0.8%, placing SL 1% above that flip level (structural_sl = resistance × 1.01) correctly absorbs liquidity above the swing high without over-widening; the 1D+4H bearish BOS cascade confirmed the flip held, validating this SL placement methodology for multi-timeframe confluent shorts.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 12,
+      "short_total": 71,
+      "decision": "SHORT",
+      "entry": 2040.847,
+      "sl": 2072.352,
+      "tp": 1937.9,
+      "close": 1937.9,
+      "pnl": 272.95
+    }
+  },
+  {
+    "ticket_id": "233164548",
+    "data_sym": "ETH/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-06-03T03:43:45.217388+00:00",
+    "lesson": "When the nearest structural support (1904.34) yields an RR below 2.0 and the system cascades to a psychological round number (1800.00) for TP, monitor price action aggressively at that support cluster—close printed at 1832.35, leaving 32 points of unrealized profit on the table before any potential reversal from the 1904.34 demand zone; consider splitting the TP into a partial exit at the first major support and a runner to the psychological level.",
+    "category": "TP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 9,
+      "short_total": 76,
+      "decision": "SHORT",
+      "entry": 1919.18,
+      "sl": 1958.8,
+      "tp": 1800.0,
+      "close": 1832.35,
+      "pnl": 181.52
+    }
+  },
+  {
+    "ticket_id": "233230859",
+    "data_sym": "ETH/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-06-05T08:31:49.941930+00:00",
+    "lesson": "When the nearest major support below entry fails the 2.0 R:R threshold (psych 1800 yielded only 1.78R) and the next qualifying level is a round-number psychological support at 1600 producing 6.29R, accept the extended TP rather than forcing a closer level — price closed at 1661 confirming the 1600 psych level acted as a valid draw on liquidity, but leaving ~61 points of unrealized profit suggests a partial close or trailing stop at the next intermediate structure (e.g., 4H BOS_BEAR origin at 1945 mirrored downside) should be pre-planned to capture more of the move before final TP.",
+    "category": "TP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 15,
+      "short_total": 65,
+      "decision": "SHORT",
+      "entry": 1879.03,
+      "sl": 1923.38,
+      "tp": 1600.0,
+      "close": 1661.1,
+      "pnl": 2.18
+    }
+  },
+  {
+    "ticket_id": "233600001",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-07T16:43:35.179765+00:00",
+    "lesson": "When the structural SL is anchored to a 5-touch major resistance at 61,575.69 and price is already within 1.6% of that level at entry, the SL buffer (resistance × 1.01) is insufficient if that resistance zone has not yet been decisively rejected — a confirmed bearish reaction candle (e.g., bearish engulfing closing below the zone on the 1H or 4H) should be required before entry, or the SL should be widened to the next untested supply structure above 62,191.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 12,
+      "short_total": 65,
+      "decision": "SHORT",
+      "entry": 60722.45,
+      "sl": 62191.45,
+      "tp": 55581.0,
+      "close": 62204.0,
+      "pnl": -236.88
+    }
+  },
+  {
+    "ticket_id": "233601398",
+    "data_sym": "XRP/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-07T16:43:39.853799+00:00",
+    "lesson": "When the 1D BOS_BEAR has bars_since=0 (retest=PENDING), price has not yet confirmed the structural break with a retest-and-reject; entering short before that retest validation exposes the position to a sweep above the nearest major resistance (1.1019→1.1276 range), which is exactly what triggered the stop at 1.1311. Require the BOS_BEAR retest to complete (price returns to the broken level and closes below it on the originating TF) before entry, accepting a worse fill in exchange for structural confirmation.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 11,
+      "short_total": 68,
+      "decision": "SHORT",
+      "entry": 1.095813,
+      "sl": 1.112919,
+      "tp": 1.035942,
+      "close": 1.1311,
+      "pnl": -321.2
+    }
+  },
+  {
+    "ticket_id": "233611473",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-07T23:05:01.704713+00:00",
+    "lesson": "When structural SL (61,441.96 × 1.01 = 62,056.38) is tighter than the 1.5% minimum and gets clamped to 62,364.74, the clamped SL is no longer anchored to any structural level — in this case price swept the 7-touch major resistance at 61,441.96 and continued into the clamped buffer zone before reversing; consider rejecting the trade entirely when the structural SL requires clamping beyond the key level, as the extra buffer invites stop hunts with no structural justification.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 17,
+      "short_total": 66,
+      "decision": "SHORT",
+      "entry": 61443.09,
+      "sl": 62364.74,
+      "tp": 58790.56,
+      "close": 62441.0,
+      "pnl": -477.84
+    }
+  },
+  {
+    "ticket_id": "233791778",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-11T06:28:43.684341+00:00",
+    "lesson": "When the structural SL (resistance × 1.01 = 63,469) is tighter than 1.5% and gets clamped to 63,893, verify that price has already printed a confirmed bearish displacement (e.g., a strong-body 1H bearish engulfing closing below the resistance level with volume) before entry — the 1H CHoCH_BULL@61,500 pending retest was an unresolved counter-signal indicating the resistance had not yet been decisively reclaimed as supply, making the 1.5%-clamped stop structurally arbitrary rather than anchored to an invalidation point.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 10,
+      "short_total": 74,
+      "decision": "SHORT",
+      "entry": 62949.09,
+      "sl": 63893.33,
+      "tp": 60031.63,
+      "close": 62962.0,
+      "pnl": -2.88
+    }
+  },
+  {
+    "ticket_id": "233930873",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-11T12:31:14.134085+00:00",
+    "lesson": "When a 1D BOS_BEAR retest is PENDING (unconfirmed retest-and-reject), the structural break lacks validation and price retains upside liquidity above the resistance cluster; in this scenario, either skip the entry entirely or widen the SL beyond the 1.5% floor to at least 1×ATR above the resistance zone to avoid being swept by the unmitigated order block at 1,644.56 before the move materializes.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 9,
+      "short_total": 75,
+      "decision": "SHORT",
+      "entry": 1645.33,
+      "sl": 1670.01,
+      "tp": 1558.95,
+      "close": 1671.2,
+      "pnl": -351.58
+    }
+  },
+  {
+    "ticket_id": "234325025",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-11T17:33:52.035091+00:00",
+    "lesson": "When the structural SL derived from nearest major resistance×1.01 (1665.06) is tighter than the 1.5% minimum and gets clamped outward to 1670.65, the clamped SL is no longer anchored to any market structure—price swept the 4-touch resistance at 1648.57, triggered a liquidity grab above that level, and closed at 1673.0 beyond even the clamped SL; in such cases where the structural SL requires clamping, treat the setup as invalid and skip the trade rather than accepting an unstructured stop placement.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 10,
+      "short_total": 66,
+      "decision": "SHORT",
+      "entry": 1645.96,
+      "sl": 1670.65,
+      "tp": 1571.89,
+      "close": 1673.0,
+      "pnl": -487.39
+    }
+  },
+  {
+    "ticket_id": "234334844",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-11T19:34:49.855334+00:00",
+    "lesson": "When the structural SL is clamped from 1.02% to 1.5% because it sits only 0.22% above entry (price already inside the resistance zone rather than approaching it), the trade lacks adequate displacement room and the stop will be hunted by normal wick expansion above the 28-touch resistance; require price to reject and close below the resistance level on the entry timeframe before triggering the short, ensuring the structural SL at resistance×1.01 (63,469) is the natural stop without clamping.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 13,
+      "short_total": 61,
+      "decision": "SHORT",
+      "entry": 62827.65,
+      "sl": 63770.06,
+      "tp": 60031.63,
+      "close": 63775.0,
+      "pnl": -428.88
+    }
+  },
+  {
+    "ticket_id": "234381431",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-13T22:09:23.183956+00:00",
+    "lesson": "When 1H MACD is BULL_BUILDING (histogram expanding above zero) and the 4H last closed candle is strongly bullish (O=1645.56 C=1681.26, +2.2%), do not fade a multi-touch resistance with a structural SL placed only 1.554% above entry—bullish momentum continuation invalidated the bearish HTF bias and price swept the SL at 1696.80 before reversing; require at least one volume-confirmed CHoCH or BOS_BEAR on the 1H/4H to confirm supply absorption before shorting into resistance.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 17,
+      "short_total": 58,
+      "decision": "SHORT",
+      "entry": 1670.8245,
+      "sl": 1696.7965,
+      "tp": 1602.2375,
+      "close": 1698.1,
+      "pnl": -367.19
+    }
+  },
+  {
+    "ticket_id": "234397474",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-14T22:11:15.743133+00:00",
+    "lesson": "When a 1H BOS_BULL with confirmed volume is retested and respected concurrent with a BULLISH_ENGULFING on the 1H, these long-side structural signals directly beneath entry invalidate a short setup regardless of higher-timeframe bearish confluence—do not enter short while price is actively respecting a fresh bullish BOS retest on a sub-timeframe, as it signals buy-side order flow absorption that will drive price into the structural SL above the supply zone.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 18,
+      "short_total": 64,
+      "decision": "SHORT",
+      "entry": 63670.14,
+      "sl": 65160.19,
+      "tp": 60031.63,
+      "close": 65165.0,
+      "pnl": -492.86
+    }
+  },
+  {
+    "ticket_id": "234556071",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-14T22:11:21.896134+00:00",
+    "lesson": "When structural SL requires clamping beyond the nearest major resistance (1686.84 acting as the invalidation ceiling), and price has not yet swept that resistance before entry, the trade lacks a structurally anchored stop — price swept through 1686.84 en route to stopping out at 1707.60, confirming that a clamped SL placed above unswept resistance is a synthetic level with no order-flow basis; require price to first sweep and reject the resistance (CHoCH or bearish engulf on 1H) before entering short, using resistance×1.005 as the true structural SL.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 15,
+      "short_total": 61,
+      "decision": "SHORT",
+      "entry": 1682.363,
+      "sl": 1707.598,
+      "tp": 1606.6580000000004,
+      "close": 1707.6,
+      "pnl": -335.84
+    }
+  },
+  {
+    "ticket_id": "234559793",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-06-20T22:45:41.976226+00:00",
+    "lesson": "When the structural SL anchor (1742.098 major resistance) sits only 1.556% above entry and an SR_FLIP_RESISTANCE level (1750.576) clusters between entry and SL, the stop at resistance×1.01 is too tight to absorb a liquidity sweep above that confluent resistance zone; require the SL to clear the SR_FLIP_RESISTANCE by at least 0.5% before entry, or skip the trade if no valid SL placement exists beyond all confluent resistance within the 4% cap.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 10,
+      "short_total": 64,
+      "decision": "SHORT",
+      "entry": 1718.831,
+      "sl": 1759.519,
+      "tp": 1602.2375,
+      "close": 1759.75,
+      "pnl": -494.89
+    }
+  },
+  {
+    "ticket_id": "236626985",
+    "data_sym": "ETH/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-06-25T14:03:23.309216+00:00",
+    "lesson": "When the structural SL exceeds the 4% ceiling and the fallback anchors directly above the nearest major resistance (1642.48 × 1.01 = 1659.91), price must sweep through that resistance to trigger the stop — this layered SL placement behind a 7-touch supply zone provided a structurally sound buffer that held, confirming the fallback ceiling rule as a valid risk-containment mechanism rather than a compromise.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 8,
+      "short_total": 59,
+      "decision": "SHORT",
+      "entry": 1628.15,
+      "sl": 1659.91,
+      "tp": 1546.32,
+      "close": 1545.65,
+      "pnl": 322.23
+    }
+  },
+  {
+    "ticket_id": "236706357",
+    "data_sym": "BTC/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-07-31T22:11:57.011802+00:00",
+    "lesson": "When a CHoCH_BEAR retest occurs within NY killzone (12:00–16:00 UTC) with strong-body volume confirmation, prioritize psychological round-number confluence (60000 within 0.129% of SR_FLIP_RESISTANCE 59923) as a tighter entry anchor rather than waiting for price to fully retrace the structure; this trade's 3.812% SL was acceptable but the 2.053 RR to psychological 55000 left minimal margin for HTF momentum reversal—cap psychological TP targets at RR ≤2.5 when HTF bearish alignment is only dual (1D+4H) without 8H confirmation.",
+    "category": "TP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 7,
+      "short_total": 65,
+      "decision": "SHORT",
+      "entry": 59669.6,
+      "sl": 61944.55,
+      "tp": 55000.0,
+      "close": 58464.0,
+      "pnl": 60.38
+    }
+  },
+  {
+    "ticket_id": "236972550",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-07-31T22:11:59.299979+00:00",
+    "lesson": "4H BOS_BEAR@1635.65 was fresh (bars_since=0) but lacked retest confirmation; entry at 1571.511 placed SL only 48.5 pips above the nearest major resistance 1603.93, leaving insufficient buffer for structural noise—require BOS/CHoCH retest validation and minimum 1.5× major resistance distance before entry on fresh breakouts.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 13,
+      "short_total": 58,
+      "decision": "SHORT",
+      "entry": 1571.511,
+      "sl": 1619.969,
+      "tp": 1426.137,
+      "close": 1620.45,
+      "pnl": -272.84000000000003
+    }
+  },
+  {
+    "ticket_id": "242561614",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-08-04T04:51:22.211036+00:00",
+    "lesson": "Stop-loss was breached by 21.8 pips despite a 3.31 RR setup; tighten SL placement to 0.8–1.0% when Short Total (62) lacks confluence from Key Levels, as deterministic scorer-only entries without structural support are prone to wick-induced liquidation.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 27,
+      "short_total": 62,
+      "decision": "SHORT",
+      "entry": 63152.148769,
+      "sl": 64104.191212,
+      "tp": 60000.0,
+      "close": 64126.0,
+      "pnl": -716.76
+    }
+  },
+  {
+    "ticket_id": "243861503",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-08-11T08:32:10.700458+00:00",
+    "lesson": "Entry signal strength (62/100) was insufficient margin of safety for a 1.50% stop; tighten entry criteria to ≥75 scorer confidence or widen stops to 2.0%+ to avoid whipsaws in choppy price action near support.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 62,
+      "short_total": 33,
+      "decision": "LONG",
+      "entry": 64978.1477,
+      "sl": 64003.475484,
+      "tp": 68389.500454,
+      "close": 64002.5,
+      "pnl": -1260.35
+    }
+  },
+  {
+    "ticket_id": "244237825",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-08-11T12:03:01.915981+00:00",
+    "lesson": "Short bias (54/100) was insufficient to overcome a 3.52% stop-loss width in a ranging market; tighten SL to ≤2% or require Short score >70 to filter low-conviction entries that get stopped by noise.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 27,
+      "short_total": 54,
+      "decision": "SHORT",
+      "entry": 64124.7435,
+      "sl": 66381.117116,
+      "tp": 56227.43584400001,
+      "close": 64350.0,
+      "pnl": -122.93
+    }
+  },
+  {
+    "ticket_id": "244374941",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-08-18T17:03:47.010062+00:00",
+    "lesson": "Stop-loss was breached at 65596.55 despite a 3.5 RR setup; the 3.05% SL width was too tight for BTC volatility on a swing timeframe—widen SL to 4–5% or require stronger confluence (Key Levels, OB/DB, FVG) before entry on scorer-only signals.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 26,
+      "short_total": 61,
+      "decision": "SHORT",
+      "entry": 63655.3065,
+      "sl": 65596.546471,
+      "tp": 56860.96660150001,
+      "close": 64803.0,
+      "pnl": -728.64
+    }
+  },
+  {
+    "ticket_id": "245947395",
+    "data_sym": "ETH/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-08-19T22:33:34.176220+00:00",
+    "lesson": "Stop-loss was breached by 0.62% (2249.2 vs 2249.82 SL), indicating slippage on a 1.62% risk allocation; tighten SL placement to 1.0–1.2% or use limit orders to prevent sub-SL fills on low-liquidity swings.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 59,
+      "short_total": 21,
+      "decision": "LONG",
+      "entry": 2286.84215,
+      "sl": 2249.81856,
+      "tp": 2397.9129199999993,
+      "close": 2249.2,
+      "pnl": -1224.09
+    }
+  },
+  {
+    "ticket_id": "245947058",
+    "data_sym": "BTC/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-08-20T08:22:31.176230+00:00",
+    "lesson": "Risk-reward ratio of 2.075 with only 59/100 long conviction produced profitable exit before TP; tighten entry filters to require minimum 65+ scorer conviction before accepting RR >2.0 to avoid low-conviction trades that succeed by luck rather than edge.",
+    "category": "TP",
+    "importance": "MEDIUM",
+    "entry_snapshot": {
+      "long_total": 59,
+      "short_total": 34,
+      "decision": "LONG",
+      "entry": 69578.3145,
+      "sl": 68424.1569,
+      "tp": 71972.8975,
+      "close": 71352.5,
+      "pnl": 1502.56
+    }
+  },
+  {
+    "ticket_id": "246224432",
+    "data_sym": "BTC/USDT",
+    "outcome": "TP",
+    "timestamp": "2026-08-21T09:00:09.162754+00:00",
+    "lesson": "Risk-reward ratio of 2.172 with 65/100 long conviction delivered profitable exit; maintain minimum 2.0 RR threshold on deterministic scorer entries to filter low-probability setups and reduce drawdown exposure.",
+    "category": "TP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 65,
+      "short_total": 21,
+      "decision": "LONG",
+      "entry": 73652.6495,
+      "sl": 71253.168525,
+      "tp": 78863.658333,
+      "close": 78881.5,
+      "pnl": 1811.8400000000001
+    }
+  },
+  {
+    "ticket_id": "247849306",
+    "data_sym": "BTC/USDT",
+    "outcome": "STOP",
+    "timestamp": "2026-08-28T16:28:00.690081+00:00",
+    "lesson": "Stop-loss was breached by 14 pips (77,261.5 vs 77,275.4) despite a 3.15 RR setup; tighten SL execution to market microstructure or use limit orders at SL level to avoid slippage on 1.5% stops in volatile BTC swings.",
+    "category": "STOP",
+    "importance": "HIGH",
+    "entry_snapshot": {
+      "long_total": 60,
+      "short_total": 16,
+      "decision": "LONG",
+      "entry": 78452.1492,
+      "sl": 77275.366962,
+      "tp": 82162.5175,
+      "close": 77261.5,
+      "pnl": -701.52
+    }
+  }
+]

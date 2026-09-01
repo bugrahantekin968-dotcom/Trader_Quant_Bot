@@ -1,0 +1,211 @@
+# syssl.txt — ZARARLA kapanan işlemler (26 adet)
+# Her blok: bot hangi puanlarla, nereyi destek/direnç görerek girdi + sonuç
+
+────────────────────────────────────────────────────────
+2025-02-12 08:00:00+00:00  BTCUSD  LONG  (score 45)
+  Karar gerekçesi (puan dökümü): macro_trend=12 | momentum_rsi=3 | momentum_ema=10 | sr_proximity=9 | sr_quality=5 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 62361.787705  → DESTEK (support) bazlı giriş
+  Plan: entry=62782.693746  SL=61738.169828 (1.66%)  TP=65883.291709  RR=2.968  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.78R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-12 09:00:00+00:00 → 2025-02-12 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-14 23:00:00+00:00  BTCUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=3 | momentum_ema=10 | sr_proximity=12 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 62308.138919  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=61940.389843  SL=62931.220308 (1.60%)  TP=57749.532237  RR=4.23  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.33R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-15 02:00:00+00:00 → 2025-02-15 06:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-15 19:00:00+00:00  BTCUSD  SHORT  (score 45)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=2 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 62308.138919  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=62137.183313  SL=63069.241063 (1.50%)  TP=57749.532237  RR=4.707  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=9h  |  MFE=+1.91R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-15 20:00:00+00:00 → 2025-02-16 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-18 22:00:00+00:00  BTCUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=20 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=9 | sr_quality=3 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 65908.460203  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=65475.047433  SL=66567.544805 (1.67%)  TP=62308.138919  RR=2.899  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=34h  |  MFE=+1.66R MAE=-1.34R  |  yarı-yola ulaştı=True
+  Giriş→Çıkış: 2025-02-18 23:00:00+00:00 → 2025-02-20 09:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-20 10:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=12 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SUPPORT @ 65908.460203  → DESTEK (support) bazlı giriş
+  Plan: entry=66171.452275  SL=65178.880491 (1.50%)  TP=69343.871891  RR=3.196  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+1.29R MAE=-1.08R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-20 11:00:00+00:00 → 2025-02-21 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-22 15:00:00+00:00  BTCUSD  SHORT  (score 45)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=2 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 63714.098865  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=63442.885717  SL=64394.529003 (1.50%)  TP=57747.093689  RR=5.985  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.64R MAE=-1.65R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-22 16:00:00+00:00 → 2025-02-22 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-23 04:00:00+00:00  BTCUSD  SHORT  (score 46)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 62308.138919  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=62149.585307  SL=63081.829086 (1.50%)  TP=57747.093689  RR=4.722  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=11h  |  MFE=+2.77R MAE=-1.25R  |  yarı-yola ulaştı=True
+  Giriş→Çıkış: 2025-02-23 05:00:00+00:00 → 2025-02-23 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-24 01:00:00+00:00  BTCUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=9 | sr_quality=2 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SUPPORT @ 63714.098865  → DESTEK (support) bazlı giriş
+  Plan: entry=64189.476491  SL=63076.957876 (1.73%)  TP=67872.022335  RR=3.31  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.61R MAE=-1.35R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-24 03:00:00+00:00 → 2025-02-24 06:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-24 15:00:00+00:00  BTCUSD  LONG  (score 47)
+  Karar gerekçesi (puan dökümü): macro_trend=20 | momentum_rsi=2 | momentum_macd=1 | sr_proximity=12 | sr_quality=5 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 62308.138919  → DESTEK (support) bazlı giriş
+  Plan: entry=62585.415292  SL=61646.634062 (1.50%)  TP=65908.460203  RR=3.54  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+2.10R MAE=-1.69R  |  yarı-yola ulaştı=True
+  Giriş→Çıkış: 2025-02-24 16:00:00+00:00 → 2025-02-24 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-25 11:00:00+00:00  BTCUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=20 | momentum_rsi=2 | momentum_ema=2 | momentum_macd=5 | sr_proximity=9 | sr_quality=5 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 62308.138919  → DESTEK (support) bazlı giriş
+  Plan: entry=62784.80847  SL=61685.05753 (1.75%)  TP=65854.131306  RR=2.791  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-1.14R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-25 12:00:00+00:00 → 2025-02-25 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-27 20:00:00+00:00  BTCUSD  LONG  (score 59)
+  Karar gerekçesi (puan dökümü): macro_trend=20 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=9 | sr_quality=5 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 65854.131306  → DESTEK (support) bazlı giriş
+  Plan: entry=66594.81196  SL=65195.589993 (2.10%)  TP=71299.671992  RR=3.362  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.07R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-27 21:00:00+00:00 → 2025-02-27 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-28 12:00:00+00:00  BTCUSD  LONG  (score 59)
+  Karar gerekçesi (puan dökümü): macro_trend=20 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=5 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 67872.022335  → DESTEK (support) bazlı giriş
+  Plan: entry=68112.177489  SL=67090.494826 (1.50%)  TP=71299.671992  RR=3.12  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.31R MAE=-1.05R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-28 13:00:00+00:00 → 2025-02-28 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-01 21:00:00+00:00  BTCUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=9 | sr_quality=5 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 68965.501756  → DESTEK (support) bazlı giriş
+  Plan: entry=69447.569236  SL=68275.846738 (1.69%)  TP=71838.913566  RR=2.041  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.27R MAE=-1.33R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-03-01 22:00:00+00:00 → 2025-03-02 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-02 06:00:00+00:00  BTCUSD  LONG  (score 65)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=15 | sr_quality=5 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 68965.501756  → DESTEK (support) bazlı giriş
+  Plan: entry=68882.582117  SL=67193.302112 (2.45%)  TP=73577.37328  RR=2.779  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=77h  |  MFE=+1.25R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-03-02 08:00:00+00:00 → 2025-03-05 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-03 12:00:00+00:00  ETHUSD  SHORT  (score 48)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=5 | sr_proximity=12 | sr_quality=2 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 2050.515206  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=2042.198204  SL=2072.831177 (1.50%)  TP=1937.219144  RR=3.427  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=123h  |  MFE=+3.19R MAE=-1.34R  |  yarı-yola ulaştı=True
+  Giriş→Çıkış: 2025-02-03 13:00:00+00:00 → 2025-02-08 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-12 09:00:00+00:00  ETHUSD  LONG  (score 45)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=12 | sr_quality=2 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SUPPORT @ 1906.266053  → DESTEK (support) bazlı giriş
+  Plan: entry=1912.147756  SL=1883.465539 (1.50%)  TP=2014.686088  RR=3.575  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.20R MAE=-1.12R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-12 12:00:00+00:00 → 2025-02-12 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-06 10:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=12 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SUPPORT @ 1938.216987  → DESTEK (support) bazlı giriş
+  Plan: entry=1937.005988  SL=1887.203392 (2.57%)  TP=2048.639538  RR=2.242  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=31h  |  MFE=+1.52R MAE=-1.47R  |  yarı-yola ulaştı=True
+  Giriş→Çıkış: 2025-03-06 11:00:00+00:00 → 2025-03-07 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-29 19:00:00+00:00  ETHUSD  LONG  (score 47)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=8 | momentum_macd=1 | sr_proximity=12 | sr_quality=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 2016.929436  → DESTEK (support) bazlı giriş
+  Plan: entry=2028.322484  SL=1996.760142 (1.56%)  TP=2174.521084  RR=4.632  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+1.19R MAE=-1.19R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-03-29 20:00:00+00:00 → 2025-03-30 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-31 05:00:00+00:00  ETHUSD  LONG  (score 46)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=3 | momentum_macd=3 | sr_proximity=12 | sr_quality=5 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_SUPPORT @ 2051.026795  → DESTEK (support) bazlı giriş
+  Plan: entry=2057.909086  SL=2027.04045 (1.50%)  TP=2174.521084  RR=3.778  pos=$10000
+  SONUÇ: TIMEOUT  |  R=-0.11  |  tutuş=17h  |  MFE=+1.29R MAE=-0.54R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-03-31 06:00:00+00:00 → 2025-03-31 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-09 16:00:00+00:00  XRPUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=12 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SUPPORT @ 1.935862  → DESTEK (support) bazlı giriş
+  Plan: entry=1.940668  SL=1.911558 (1.50%)  TP=2.024498  RR=2.88  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=10h  |  MFE=+0.90R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-09 18:00:00+00:00 → 2025-02-10 04:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-19 17:00:00+00:00  XRPUSD  SHORT  (score 46)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_macd=1 | sr_proximity=12 | sr_quality=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 1.971892  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=1.969088  SL=1.998624 (1.50%)  TP=1.847315  RR=4.123  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.96R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-19 18:00:00+00:00 → 2025-02-19 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-19 23:00:00+00:00  XRPUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_macd=5 | sr_proximity=12 | sr_quality=2 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 1.971892  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=1.969397  SL=1.998938 (1.50%)  TP=1.847315  RR=4.133  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.00R MAE=-2.79R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-20 01:00:00+00:00 → 2025-02-20 04:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-22 08:00:00+00:00  XRPUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=5 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_RESISTANCE @ 1.847315  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=1.837457  SL=1.865788 (1.54%)  TP=1.741045  RR=3.403  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+1.45R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-22 09:00:00+00:00 → 2025-02-23 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-23 10:00:00+00:00  XRPUSD  SHORT  (score 48)
+  Karar gerekçesi (puan dökümü): macro_trend=18 | momentum_rsi=3 | sr_proximity=15 | sr_quality=5 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_RESISTANCE @ 1.935862  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=1.939134  SL=1.991611 (2.71%)  TP=1.813696  RR=2.39  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=40h  |  MFE=+1.59R MAE=-1.04R  |  yarı-yola ulaştı=True
+  Giriş→Çıkış: 2025-02-23 11:00:00+00:00 → 2025-02-25 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-25 08:00:00+00:00  XRPUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_macd=5 | sr_proximity=9 | sr_quality=5 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: SR_FLIP_RESISTANCE @ 1.935862  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=1.922634  SL=1.955221 (1.69%)  TP=1.847315  RR=2.311  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.50R MAE=-1.31R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-25 11:00:00+00:00 → 2025-02-25 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-25 14:00:00+00:00  XRPUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | sr_proximity=15 | sr_quality=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye: RESISTANCE @ 1.972314  → DİRENÇ (resistance) bazlı giriş
+  Plan: entry=1.973285  SL=2.041156 (3.44%)  TP=1.813696  RR=2.351  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=10h  |  MFE=+0.08R MAE=-1.40R  |  yarı-yola ulaştı=False
+  Giriş→Çıkış: 2025-02-25 15:00:00+00:00 → 2025-02-26 01:00:00+00:00
+

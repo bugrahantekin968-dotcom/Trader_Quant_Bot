@@ -1,0 +1,7 @@
+cmd: C:\Users\sonic\OneDrive\Desktop\Trader_Quant_Bot\backtest\run_backtest.py --csv-dir data --whale-cache data/whale_cache.json --threshold 54 --regime-filter --no-reversal --tp-cap-map BTCUSD:3.5,ETHUSD:3.0 --cost-pct 0.0006 --exit-mode scaleout --n-parts 4 --out-dir backtest_out/x0_baseline
+run_at: 2026-08-21 17:28 UTC
+--- DATA_VERSION ---
+fetched: 2026-08-21 17:28 UTC  exchange=binance tf=1h
+BTCUSD: 2023-08-22 -> 2026-08-21 (26,280 bar)
+ETHUSD: 2023-08-22 -> 2026-08-21 (26,280 bar)
+XRPUSD: 2023-08-22 -> 2026-08-21 (26,280 bar)

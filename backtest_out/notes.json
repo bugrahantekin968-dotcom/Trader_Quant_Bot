@@ -1,0 +1,20 @@
+{
+  "x0_baseline": "GECERLI REFERANS (2026-08-21 aksam damgasi) — BTC+ETH, canli ayarlar",
+  "x1_xrp": "RED (kesin) — XRP 225 islemde -25.3R, HER yil ve HER yari eksi; kenar XRP'ye tasimiyor. BTC/ETH sutunlari x0 ile birebir ayni (saglama gecti)",
+  "s0_baseline": "eski referans (sabah damgasi) — x0 ile degistirildi",
+  "s1_tol12": "RED — yari2 eksi, istikrarsiz",
+  "s2_tol10": "RED (kesin, >2SE) — asiri inceltme",
+  "s3_impulse": "RED — yeni acilan islemler zararli",
+  "s4_edgerole": "RED — flip-fix A/B'de kaybetti, oneri geri cekildi",
+  "s5_prox12": "RED — dusen marjinal islemler net artiydi",
+  "d6_scaleout4": "ESKI REFERANS (gecersiz: eski veri + ETH tavan 3.5 hatasi) — tarihsel kayit",
+  "e1_maxsl25": "RED — SL tavani 2.5 geri alindi (0.04'e)",
+  "e2_longonly": "RED — scaleout'ta shortlar +26.5R katiyor",
+  "e3_exhveto": "RED — giris exhaustion vetosu kapali (0.0)",
+  "e4_be50": "Eslesmis test: BE hafif ARTI (+0.018R/islem) — canli breakeven_at_half=True",
+  "e5_esik70": "RED — esik 70: +7.1R/53 islem, esik 54'te kaldi",
+  "d4_pd": "RED — premium/discount filtresi -20R",
+  "d5_ltf": "RED — LTF tetigi -12R",
+  "smoke_flags": "duman testi (sentetik) — sonuc anlamsiz",
+  "smoke_default": "duman testi (sentetik) — sonuc anlamsiz"
+}

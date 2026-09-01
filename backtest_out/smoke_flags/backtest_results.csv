@@ -1,0 +1,1 @@
+signal_time,symbol,side,playbook,score,macro_trend,momentum_rsi,momentum_ema,momentum_macd,sr_proximity,sr_quality,structural_events,ls_ratio,funding_rate,oi_behavior,nearest_level,nearest_label,entry,sl,tp,rr,sl_pct,outcome,R,mae_R,mfe_R,reached_half,bars_held,n_fills,fill_time,exit_time,ext_4h_ema200,ltf_exh,ltf_hard,adx

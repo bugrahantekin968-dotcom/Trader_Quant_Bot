@@ -1,0 +1,33 @@
+C:\Users\sonic\OneDrive\Desktop\Trader_Quant_Bot\modules\ai_brain.py:41: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+[load] BTCUSD: 26280 adet 1h bar
+
+================================================================
+  BACKTEST ÖZETİ — 122 işlem
+  Çıkış modu       : halfway_be
+================================================================
+  Win rate (R>=0)  :  47.5%   (58/122)
+  Sonuç dağılımı   : TP=33  BE=21  SL=63  TIMEOUT=5
+  Toplam R         : +23.35
+  Beklenen değer   : +0.191 R / işlem
+  Std (varyans)    : 1.33 R   <- prop firma DD riski için kritik
+  Yarı-yola ulaşan : 46.7%
+  Ort. fill/işlem  : 2.5  (giriş + kısmi çıkışlar -> işlem maliyeti)
+  ── Sembol bazında ──
+    BTCUSD    : 122 işlem | WR  47.5% | toplam +23.35R
+  ── Playbook bazında ──
+    continuation: 115 işlem | WR  48.7% | toplam +26.62R
+    reversal    :   7 işlem | WR  28.6% | toplam -3.27R  ← DENEYSEL, doğrulanmamış
+
+  Çıktılar:
+    backtest_out/ab_v2_confreg\systp.txt
+    backtest_out/ab_v2_confreg\syssl.txt
+    backtest_out/ab_v2_confreg\backtest_results.csv
+================================================================

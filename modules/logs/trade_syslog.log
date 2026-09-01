@@ -1,0 +1,15 @@
+
+==============================================================================
+[2026-05-19 19:41:25 UTC] TRADE DECISION
+==============================================================================
+Symbol		 : BTC/USDT
+Decision		 : LONG
+Entry			 : $77,000.00
+Stop Loss		 : $76,520.00
+Take Profit	 : $78,300.00
+Risk %		 : 0.5
+R:R Ratio		 : 2.71
+AI Comment	 : [MOCK] HTF trend bullish (1 unmitigated FVG, 1 bullish OB). Yukarıda likidite duvarı hedefleniyor. SL son swing low altında, R:R ≈ 2.71.
+------------------------------------------------------------------------------
+[JSON]: {"karar": "LONG", "risk_yuzdesi": 0.5, "ai_yorumu": "[MOCK] HTF trend bullish (1 unmitigated FVG, 1 bullish OB). Yukarıda likidite duvarı hedefleniyor. SL son swing low altında, R:R ≈ 2.71.", "giris_fiyati": 77000.0, "stop_loss": 76520.0, "take_profit": 78300.0}
+==============================================================================

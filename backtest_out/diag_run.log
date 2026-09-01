@@ -1,0 +1,34 @@
+C:\Users\sonic\OneDrive\Desktop\Trader_Quant_Bot\modules\ai_brain.py:41: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+[cfg] color_mode=off 1d_gate=ON sr_min_sep=0.0 sr_major_only=False sr_max=0
+[reversal] KAPALI — sadece trend-devamı (de-redundant) skoru
+[load] BTCUSD: 26280 adet 1h bar
+[load] ETHUSD: 26280 adet 1h bar
+
+================================================================
+  BACKTEST ÖZETİ — 152 işlem
+  Çıkış modu       : halfway_be
+================================================================
+  Win rate (R>=0)  :  51.3%   (78/152)
+  Sonuç dağılımı   : TP=41  BE=34  SL=74  TIMEOUT=3
+  Toplam R         : +39.34
+  Beklenen değer   : +0.259 R / işlem
+  Std (varyans)    : 1.34 R   <- prop firma DD riski için kritik
+  Yarı-yola ulaşan : 51.3%
+  Ort. fill/işlem  : 2.5  (giriş + kısmi çıkışlar -> işlem maliyeti)
+  ── Sembol bazında ──
+    BTCUSD    :  64 işlem | WR  54.7% | toplam +23.54R
+    ETHUSD    :  88 işlem | WR  48.9% | toplam +15.80R
+
+  Çıktılar:
+    backtest_out/diag\systp.txt
+    backtest_out/diag\syssl.txt
+    backtest_out/diag\backtest_results.csv
+================================================================

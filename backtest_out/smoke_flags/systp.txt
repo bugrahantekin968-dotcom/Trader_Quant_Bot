@@ -1,0 +1,3 @@
+# systp.txt — KÂRLA kapanan işlemler (0 adet)
+# Her blok: bot hangi puanlarla, nereyi destek/direnç görerek girdi + sonuç
+

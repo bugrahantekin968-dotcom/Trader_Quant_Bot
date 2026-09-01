@@ -1,0 +1,4340 @@
+
+==============================================================================
+[2026-05-19 22:40:29 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: LLM çağrısı 3 denemede başarısız oldu: 404, message='Not Found', url='https://api.anthropic.com/v1/messages'
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 1,
+  "current_price": 76690.1,
+  "trend": "bearish",
+  "rsi": 44.16725871575144,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-19 22:40:45 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: LLM çağrısı 3 denemede başarısız oldu: 404, message='Not Found', url='https://api.anthropic.com/v1/messages'
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 2,
+  "current_price": 76710.3,
+  "trend": "bearish",
+  "rsi": 45.1234487843773,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-20 16:29:17 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.5-flash
+Please retry in 41.407247977s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 41
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 2,
+  "current_price": 77050.0,
+  "trend": "bullish",
+  "rsi": 40.45380176469958,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-20 16:29:39 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.5-flash
+Please retry in 19.355547481s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 19
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 3,
+  "current_price": 76975.1,
+  "trend": "bullish",
+  "rsi": 38.647325409752284,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-20 16:30:49 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.5-flash
+Please retry in 9.447632752s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 9
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 4,
+  "current_price": 77066.3,
+  "trend": "bullish",
+  "rsi": 40.869538458024806,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-20 16:32:44 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.5-flash
+Please retry in 14.920745017s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 14
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 1,
+  "current_price": 77058.0,
+  "trend": "bullish",
+  "rsi": 40.704700588555134,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-20 16:38:28 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 404 models/gemini-3.1-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 1,
+  "current_price": 77157.7,
+  "trend": "bullish",
+  "rsi": 44.43081061520522,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-20 16:38:48 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 404 models/gemini-3.1-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 2,
+  "current_price": 77202.3,
+  "trend": "bullish",
+  "rsi": 45.95020038200432,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 01:54:35 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 24.179950238s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 24
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 14,
+  "current_price": 1.3759,
+  "trend": "bearish",
+  "rsi": 60.691759319186204,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:09:53 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 6.128778774s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 6
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 27,
+  "current_price": 77807.3,
+  "trend": "bullish",
+  "rsi": 57.47730570189041,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:11:18 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.160851725s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 41
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 28,
+  "current_price": 77827.0,
+  "trend": "bullish",
+  "rsi": 58.33817348506444,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:11:25 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 34.275714984s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 34
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 28,
+  "current_price": 1.3778,
+  "trend": "bearish",
+  "rsi": 65.19222011905762,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:12:31 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 28.289156935s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 28
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 29,
+  "current_price": 77826.9,
+  "trend": "bullish",
+  "rsi": 58.33458379656527,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:12:38 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 21.063488362s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 21
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 29,
+  "current_price": 1.3787,
+  "trend": "bearish",
+  "rsi": 66.52210681247462,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:13:44 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 15.169850667s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 15
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 30,
+  "current_price": 77818.6,
+  "trend": "bullish",
+  "rsi": 58.03446770221241,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:13:51 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 8.429201931s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 8
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 30,
+  "current_price": 1.3781,
+  "trend": "bearish",
+  "rsi": 65.64710200846221,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:14:56 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 2.544726564s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 31,
+  "current_price": 77837.8,
+  "trend": "bullish",
+  "rsi": 58.722252680195524,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:15:04 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.404594101s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 31,
+  "current_price": 1.3786,
+  "trend": "bearish",
+  "rsi": 66.37938133385565,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:16:09 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.748059731s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 32,
+  "current_price": 77834.4,
+  "trend": "bullish",
+  "rsi": 58.539286951447735,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:16:17 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 42.445622462s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 32,
+  "current_price": 1.3789,
+  "trend": "bearish",
+  "rsi": 66.83616863813342,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:17:23 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 36.423921421s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 36
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 33,
+  "current_price": 77879.0,
+  "trend": "bullish",
+  "rsi": 60.22855448547556,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:17:30 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.427145127s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 29
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 33,
+  "current_price": 1.3801,
+  "trend": "bearish",
+  "rsi": 68.54559273244631,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:18:35 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.744694171s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 34,
+  "current_price": 77898.4,
+  "trend": "bullish",
+  "rsi": 60.90040519332399,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:18:43 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.429168183s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 34,
+  "current_price": 1.3816,
+  "trend": "bearish",
+  "rsi": 70.44955839343459,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:19:48 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 10.796946824s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 10
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 35,
+  "current_price": 77935.3,
+  "trend": "bullish",
+  "rsi": 62.11760932519187,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:19:55 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 3.453660998s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 3
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 35,
+  "current_price": 1.3822,
+  "trend": "bearish",
+  "rsi": 71.14813099564427,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:21:01 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 57.831583448s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 36,
+  "current_price": 77985.3,
+  "trend": "bullish",
+  "rsi": 63.650913439414495,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:21:08 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.446069728s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 36,
+  "current_price": 1.3836,
+  "trend": "bearish",
+  "rsi": 72.65640409679641,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:22:14 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 44.660835748s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 44
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 37,
+  "current_price": 77965.4,
+  "trend": "bullish",
+  "rsi": 63.05577144388925,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:22:21 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 37.469444027s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 37
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 37,
+  "current_price": 1.3832,
+  "trend": "bearish",
+  "rsi": 72.24180416611057,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:23:27 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 31.832197633s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 31
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 38,
+  "current_price": 78044.9,
+  "trend": "bullish",
+  "rsi": 65.3239182728892,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:23:34 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 24.45459233s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 24
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 38,
+  "current_price": 1.3834,
+  "trend": "bearish",
+  "rsi": 72.45066390924933,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:24:42 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.715048335s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 39,
+  "current_price": 78008.4,
+  "trend": "bullish",
+  "rsi": 64.31815064268997,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:24:50 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 9.439563366s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 9
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 39,
+  "current_price": 1.3828,
+  "trend": "bearish",
+  "rsi": 71.81443784022011,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:25:56 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 3.31175631s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 3
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 40,
+  "current_price": 78002.2,
+  "trend": "bullish",
+  "rsi": 64.1414822757695,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:26:01 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.203840327s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 40,
+  "current_price": 2144.67,
+  "trend": "bullish",
+  "rsi": 62.37072321278843,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:26:07 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 52.453049561s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 52
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 40,
+  "current_price": 1.3827,
+  "trend": "bearish",
+  "rsi": 71.70553214220777,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:27:12 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 46.846941756s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 46
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 41,
+  "current_price": 78023.2,
+  "trend": "bullish",
+  "rsi": 64.73291936420297,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:27:18 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.433020733s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 41
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 41,
+  "current_price": 2145.16,
+  "trend": "bullish",
+  "rsi": 62.834384467130604,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:27:22 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 36.431072386s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 36
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 41,
+  "current_price": 1.3838,
+  "trend": "bearish",
+  "rsi": 72.85909410178607,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:28:31 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.918243154s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 27
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 42,
+  "current_price": 78035.2,
+  "trend": "bullish",
+  "rsi": 65.06220566048805,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:28:37 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 22.201517264s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 22
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 42,
+  "current_price": 2145.48,
+  "trend": "bullish",
+  "rsi": 63.131065254052814,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:28:42 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 17.222609172s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 17
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 42,
+  "current_price": 1.3837,
+  "trend": "bearish",
+  "rsi": 72.75812611694548,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:29:48 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 11.148047993s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 11
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 43,
+  "current_price": 78001.0,
+  "trend": "bullish",
+  "rsi": 64.1070861354131,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:29:53 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 6.287168697s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 6
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 43,
+  "current_price": 2144.82,
+  "trend": "bullish",
+  "rsi": 62.513884335549164,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:29:58 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 1.44703257s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 1
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 43,
+  "current_price": 1.3838,
+  "trend": "bearish",
+  "rsi": 72.85909410178607,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:31:03 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.730140026s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 44,
+  "current_price": 77984.4,
+  "trend": "bullish",
+  "rsi": 63.1084103105535,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:31:09 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.421850311s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 44,
+  "current_price": 2143.98,
+  "trend": "bullish",
+  "rsi": 61.58932622985965,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:31:14 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 45.44705875s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 45
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 44,
+  "current_price": 1.3833,
+  "trend": "bearish",
+  "rsi": 71.61055121709478,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:32:19 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 39.525412379s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 39
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 45,
+  "current_price": 77989.7,
+  "trend": "bullish",
+  "rsi": 63.391747645882745,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:32:25 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 34.437492341s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 34
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 45,
+  "current_price": 2143.9,
+  "trend": "bullish",
+  "rsi": 61.45321695197265,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:32:30 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.446588754s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 29
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 45,
+  "current_price": 1.3829,
+  "trend": "bearish",
+  "rsi": 70.4986143839331,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:33:35 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.550059906s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 46,
+  "current_price": 77979.9,
+  "trend": "bullish",
+  "rsi": 62.869821565872854,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:33:40 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 18.436041957s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 18
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 46,
+  "current_price": 2144.87,
+  "trend": "bullish",
+  "rsi": 62.61526932711529,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:33:46 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 13.446160621s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 13
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 46,
+  "current_price": 1.3835,
+  "trend": "bearish",
+  "rsi": 72.17977767714655,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:34:52 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 7.424042287s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 7
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 47,
+  "current_price": 77987.4,
+  "trend": "bullish",
+  "rsi": 63.268478065198074,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:34:57 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 2.323815674s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 47,
+  "current_price": 2143.14,
+  "trend": "bullish",
+  "rsi": 60.18956609951911,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:35:02 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 57.293471628s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 47,
+  "current_price": 1.3826,
+  "trend": "bearish",
+  "rsi": 69.68706207289068,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:36:08 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 51.386006387s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 51
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 48,
+  "current_price": 77976.9,
+  "trend": "bullish",
+  "rsi": 62.71176211941498,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:36:13 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 46.315853731s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 46
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 48,
+  "current_price": 2142.95,
+  "trend": "bullish",
+  "rsi": 59.88173192360123,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:36:17 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.470091809s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 41
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 48,
+  "current_price": 1.3827,
+  "trend": "bearish",
+  "rsi": 69.95549545275648,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:37:23 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 35.808672428s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 35
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 49,
+  "current_price": 77997.0,
+  "trend": "bullish",
+  "rsi": 63.78619610052897,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:37:29 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 30.305614504s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 30
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 49,
+  "current_price": 2143.65,
+  "trend": "bullish",
+  "rsi": 61.03172629448717,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:37:34 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.28159534s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 49,
+  "current_price": 1.3828,
+  "trend": "bearish",
+  "rsi": 70.22600483097551,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:38:40 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 19.086660818s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 19
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 50,
+  "current_price": 78004.9,
+  "trend": "bullish",
+  "rsi": 64.21863307711718,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:38:45 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 14.150726613s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 14
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 50,
+  "current_price": 2144.06,
+  "trend": "bullish",
+  "rsi": 61.726039767674415,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:38:50 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 9.299146342s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 9
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 50,
+  "current_price": 1.3837,
+  "trend": "bearish",
+  "rsi": 72.75812611694548,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:39:56 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 3.206601424s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 3
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 51,
+  "current_price": 78014.4,
+  "trend": "bullish",
+  "rsi": 64.50798296199689,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:40:01 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.373304726s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 51,
+  "current_price": 2144.3,
+  "trend": "bullish",
+  "rsi": 62.0256362676444,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:40:05 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.451826847s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 51,
+  "current_price": 1.3833,
+  "trend": "bearish",
+  "rsi": 71.61055121709478,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:41:11 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 47.847252587s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 47
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 52,
+  "current_price": 77984.5,
+  "trend": "bullish",
+  "rsi": 63.113732852317554,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:41:16 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 42.44593972s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 52,
+  "current_price": 2143.81,
+  "trend": "bullish",
+  "rsi": 61.30081131803738,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:41:22 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 37.024879857s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 37
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 52,
+  "current_price": 1.3829,
+  "trend": "bearish",
+  "rsi": 70.4986143839331,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:42:28 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 30.937248246s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 30
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 53,
+  "current_price": 77968.9,
+  "trend": "bullish",
+  "rsi": 62.2941298148266,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:42:34 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.406764283s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 53,
+  "current_price": 2143.59,
+  "trend": "bullish",
+  "rsi": 60.931427451139236,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:42:39 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.439366628s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 20
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 53,
+  "current_price": 1.3827,
+  "trend": "bearish",
+  "rsi": 69.95549545275648,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:43:45 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 14.071359995s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 14
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 54,
+  "current_price": 77951.4,
+  "trend": "bullish",
+  "rsi": 61.39967335874195,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:43:50 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 8.737258502s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 8
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 54,
+  "current_price": 2143.0,
+  "trend": "bullish",
+  "rsi": 59.96243522235747,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:43:56 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 3.43168257s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 3
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 54,
+  "current_price": 1.3822,
+  "trend": "bearish",
+  "rsi": 68.63361780067657,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:45:01 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 57.512533477s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 55,
+  "current_price": 77981.0,
+  "trend": "bullish",
+  "rsi": 62.92797651096201,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:45:06 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 52.481859218s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 52
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 55,
+  "current_price": 2143.73,
+  "trend": "bullish",
+  "rsi": 61.16597286394263,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:45:11 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 47.474095381s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 47
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 55,
+  "current_price": 1.3824,
+  "trend": "bearish",
+  "rsi": 69.0753937993216,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:46:17 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.904287386s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 41
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 56,
+  "current_price": 77985.5,
+  "trend": "bullish",
+  "rsi": 63.1058449379501,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:46:23 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 36.41914826s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 36
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 56,
+  "current_price": 2143.28,
+  "trend": "bullish",
+  "rsi": 60.36293650830805,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:46:28 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 31.226867861s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 31
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 56,
+  "current_price": 1.3825,
+  "trend": "bearish",
+  "rsi": 69.35949725531349,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:47:34 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.053160342s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 57,
+  "current_price": 77951.5,
+  "trend": "bullish",
+  "rsi": 61.28518064213215,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:47:39 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.235967618s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 20
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 57,
+  "current_price": 2142.2,
+  "trend": "bullish",
+  "rsi": 58.51620970302166,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:47:44 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 15.407290641s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 15
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 57,
+  "current_price": 1.3821,
+  "trend": "bearish",
+  "rsi": 68.23687850823208,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:48:49 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 9.735914279s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 9
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 58,
+  "current_price": 77933.5,
+  "trend": "bullish",
+  "rsi": 60.32746689985236,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:48:55 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 4.319192803s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 4
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 58,
+  "current_price": 2141.58,
+  "trend": "bullish",
+  "rsi": 57.50622433449687,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:48:59 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 59.450517581s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 58,
+  "current_price": 1.382,
+  "trend": "bearish",
+  "rsi": 67.96187911162127,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:50:05 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.729489141s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 59,
+  "current_price": 77933.5,
+  "trend": "bullish",
+  "rsi": 60.32746689985236,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:50:11 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 48.226111751s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 48
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 59,
+  "current_price": 2141.11,
+  "trend": "bullish",
+  "rsi": 56.76352266114105,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:50:16 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 43.402885221s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 43
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 59,
+  "current_price": 1.3817,
+  "trend": "bearish",
+  "rsi": 67.15002125421466,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:51:21 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 37.694269119s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 37
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 60,
+  "current_price": 77949.9,
+  "trend": "bullish",
+  "rsi": 61.19882093482468,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:51:27 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 32.260184159s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 32
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 60,
+  "current_price": 2141.96,
+  "trend": "bullish",
+  "rsi": 58.121067549010526,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:51:32 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.413676078s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 27
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 60,
+  "current_price": 1.3824,
+  "trend": "bearish",
+  "rsi": 69.0753937993216,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:52:37 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 21.705155102s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 21
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 61,
+  "current_price": 77967.0,
+  "trend": "bullish",
+  "rsi": 62.134582500334275,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:52:42 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.448640978s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 61,
+  "current_price": 2142.43,
+  "trend": "bullish",
+  "rsi": 58.89996235682247,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:52:48 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 11.443012289s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 11
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 61,
+  "current_price": 1.3829,
+  "trend": "bearish",
+  "rsi": 70.34947939343445,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:53:53 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : BTC/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 5.669138663s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 5
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 62,
+  "current_price": 77967.9,
+  "trend": "bullish",
+  "rsi": 62.18462644984702,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:53:59 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : ETH/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 434.623604ms. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "ETH/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 62,
+  "current_price": 2143.06,
+  "trend": "bullish",
+  "rsi": 59.977358085477526,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================
+
+==============================================================================
+[2026-05-21 02:54:04 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_CALL_ERROR
+Symbol		 : XRP/USDT:USDT
+Error Message	 : RuntimeError: Gemini API çağrısı başarısız: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.063376237s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "XRP/USDT:USDT",
+  "timeframe": "15m",
+  "iteration": 62,
+  "current_price": 1.3828,
+  "trend": "bearish",
+  "rsi": 70.22600483097551,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+==============================================================================

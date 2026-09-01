@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m backtest.run_backtest --synthetic --days 90 --threshold 58 --no-reversal)",
+      "Bash(grep -iE \"Win rate|Toplam R|Beklenen|Sonuç dağ|ÖZET|işlem$\")",
+      "Bash(echo \"EXIT=$?\")",
+      "Bash(python -m backtest.run_backtest --csv-dir data --threshold 58 --out-dir backtest_out/guard_on)",
+      "Bash(python -m backtest.run_backtest --csv-dir data --threshold 58 --no-guard --out-dir backtest_out/guard_off)",
+      "Bash(python -m backtest.run_backtest --csv-dir data --threshold 58 --no-reversal --out-dir backtest_out/final_new)",
+      "Bash(python -m backtest.run_backtest --csv-dir data --threshold 58 --no-reversal --require-confirmation --out-dir backtest_out/final_confirm)",
+      "Bash(python -m backtest._iso_check)",
+      "Bash(rm -f backtest/_iso_check.py backtest/_ab_check.py)",
+      "Bash(rm -rf backtest_out/_iso backtest_out/_chk)",
+      "Bash(python -c ' *)",
+      "Bash(grep -viE \"google|README|FutureWarning|deprecated|^$\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('modules/price_action.py',encoding='utf-8'\\).read\\(\\)\\); print\\('PARSE OK price_action'\\)\")",
+      "Bash(python -m backtest._opt)",
+      "Bash(tasklist)",
+      "Bash(rm -f backtest/_opt.py)",
+      "Bash(rm -rf backtest_out/_opt)",
+      "Bash(nproc)",
+      "Bash(python -c \"import os; print\\('cpu count:', os.cpu_count\\(\\)\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('backtest/run_backtest.py',encoding='utf-8'\\).read\\(\\)\\); print\\('PARSE OK run_backtest'\\)\")",
+      "Bash(python -m backtest.run_backtest --help)",
+      "Bash(python -m backtest.run_backtest --csv-dir data --threshold 58 --regime-filter --out-dir backtest_out/live_final)",
+      "Bash(python -m backtest.run_backtest --csv-dir data --threshold 58 --regime-filter --no-reversal --out-dir backtest_out/live_exact)",
+      "Bash(rm -rf backtest_out/p backtest_out/final_new backtest_out/final_confirm backtest_out/guard_on backtest_out/guard_off)",
+      "Bash(ls -1 backtest_out/)",
+      "Bash(python -c \"import ast;[ast.parse\\(open\\(f,encoding='utf-8'\\).read\\(\\)\\) for f in \\('main.py','backtest/scorer.py','backtest/engine.py','backtest/run_backtest.py','modules/price_action.py'\\)];print\\('hepsi temiz'\\)\")"
+    ]
+  }
+}

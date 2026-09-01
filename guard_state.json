@@ -1,0 +1,75 @@
+{
+  "ETH/USDT": {
+    "cooldown_until": {
+      "SHORT": 1785557517.0139213,
+      "LONG": 1787200411.6217525
+    },
+    "consec_stops": {
+      "SHORT": 1,
+      "LONG": 1
+    },
+    "halt_until": {
+      "SHORT": 0.0
+    },
+    "stopped_levels": [
+      {
+        "price": 1718.831,
+        "side": "SHORT",
+        "ts": 1781995537.1687555
+      },
+      {
+        "price": 1571.511,
+        "side": "SHORT",
+        "ts": 1785535917.0139213
+      },
+      {
+        "price": 2286.84215,
+        "side": "LONG",
+        "ts": 1787178811.6217525
+      }
+    ],
+    "be_cooldown_until": {}
+  },
+  "BTC/USDT": {
+    "cooldown_until": {
+      "SHORT": 1787094224.1950827,
+      "LONG": 1787956078.186774
+    },
+    "consec_stops": {
+      "SHORT": 0,
+      "LONG": 1
+    },
+    "halt_until": {
+      "SHORT": 1787115824.1950827,
+      "LONG": 0.0
+    },
+    "stopped_levels": [
+      {
+        "price": 63152.148769,
+        "side": "SHORT",
+        "ts": 1785819079.3266048
+      },
+      {
+        "price": 64978.1477,
+        "side": "LONG",
+        "ts": 1786437128.0721345
+      },
+      {
+        "price": 64124.7435,
+        "side": "SHORT",
+        "ts": 1786449779.6165829
+      },
+      {
+        "price": 63655.3065,
+        "side": "SHORT",
+        "ts": 1787072624.1950827
+      },
+      {
+        "price": 78452.1492,
+        "side": "LONG",
+        "ts": 1787934478.186774
+      }
+    ],
+    "be_cooldown_until": {}
+  }
+}

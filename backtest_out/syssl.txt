@@ -1,0 +1,30 @@
+# syssl.txt — ZARARLA kapanan işlemler (3 adet)
+# Her blok: bot hangi puanlarla, nereyi destek/direnç görerek girdi + sonuç
+
+────────────────────────────────────────────────────────
+2025-02-06 16:00:00+00:00  BTCUSD  SHORT  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 72726.996959
+  Plan: entry=72560.457843  SL=73648.86471 (1.50%)  TP=69123.328053  RR=3.158  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.21R MAE=-1.19R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.4%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-02-06 17:00:00+00:00 -> 2025-02-06 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-08 11:00:00+00:00  BTCUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 72280.321899
+  Plan: entry=72174.892848  SL=73257.51624 (1.50%)  TP=69123.328053  RR=2.819  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.30R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.9%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-02-08 12:00:00+00:00 -> 2025-02-08 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-10 04:00:00+00:00  ETHUSD  SHORT  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2435.810548
+  Plan: entry=2441.670128  SL=2478.479225 (1.51%)  TP=2353.347361  RR=2.399  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=14h  |  MFE=+0.06R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.3%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-03-10 05:00:00+00:00 -> 2025-03-10 19:00:00+00:00
+

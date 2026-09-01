@@ -1,0 +1,21 @@
+# systp.txt — KÂRLA kapanan işlemler (2 adet)
+# Her blok: bot hangi puanlarla, nereyi destek/direnç görerek girdi + sonuç
+
+────────────────────────────────────────────────────────
+2025-02-09 13:00:00+00:00  BTCUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 75550.927578
+  Plan: entry=75716.472828  SL=74580.725735 (1.50%)  TP=78477.916234  RR=2.431  pos=$10000
+  SONUÇ: BE  |  R=+0.61  |  tutuş=24h  |  MFE=+2.02R MAE=-0.52R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.8%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-02-09 15:00:00+00:00 -> 2025-02-10 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-27 04:00:00+00:00  ETHUSD  SHORT  (score 59)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2291.981287
+  Plan: entry=2283.882351  SL=2318.312738 (1.51%)  TP=2163.375996  RR=3.5  pos=$10000
+  SONUÇ: TIMEOUT  |  R=+2.04  |  tutuş=113h  |  MFE=+2.77R MAE=+0.00R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-8.2%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-03-27 06:00:00+00:00 -> 2025-03-31 23:00:00+00:00
+

@@ -1,0 +1,6 @@
+cmd: python -m backtest.run_backtest (s0 ayarlari) --sr-edge-role
+run_at: 2026-08-21 ~02:40 UTC (kunye geriye donuk yazildi)
+--- DATA_VERSION ---
+fetched: 2026-08-21 (kullanici cekti)  exchange=binance tf=1h
+BTCUSD: 2023-08-22 -> 2026-08-20 (26,280 bar civari)
+ETHUSD: 2023-08-22 -> 2026-08-20

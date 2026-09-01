@@ -1,0 +1,6 @@
+cmd: python -m backtest.run_backtest --csv-dir data --whale-cache data/whale_cache.json --threshold 54 --regime-filter --no-reversal --tp-cap-map BTCUSD:3.5,ETHUSD:3.0 --cost-pct 0.0006 --exit-mode scaleout --n-parts 4
+run_at: 2026-08-21 ~02:40 UTC (kunye geriye donuk yazildi)
+--- DATA_VERSION ---
+fetched: 2026-08-21 (kullanici cekti)  exchange=binance tf=1h
+BTCUSD: 2023-08-22 -> 2026-08-20 (26,280 bar civari)
+ETHUSD: 2023-08-22 -> 2026-08-20

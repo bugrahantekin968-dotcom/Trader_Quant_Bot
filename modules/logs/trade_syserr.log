@@ -1,0 +1,75 @@
+
+==============================================================================
+[2026-05-19 19:41:25 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : LLM_PARSE_ERROR
+Symbol		 : BTC/USDT
+Error Message	 : Geçersiz karar: "BELKI". Beklenen: LONG/SHORT/BEKLE
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "symbol": "BTC/USDT",
+  "timeframe": "15m",
+  "iteration": 1,
+  "current_price": 77000.0,
+  "trend": "bullish",
+  "rsi": 58.4,
+  "trade_permission": true,
+  "kill_switch_active": false,
+  "daily_dd_used_pct": 0.0
+}
+------------------------------------------------------------------------------
+[Raw LLM Response]:
+{"karar": "BELKI", "ai_yorumu": "hmm"}
+==============================================================================
+
+==============================================================================
+[2026-05-19 21:07:12 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : EXCHANGE_ERROR
+Symbol		 : BTC/USDT
+Error Message	 : Exchange error: binanceusdm testnet/sandbox mode is not supported for futures anymore, please check the deprecation announcement https://t.me/ccxt_announcements/92 and consider using the demo trading instead.
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "karar": "LONG",
+  "giris_fiyati": 77000.0,
+  "stop_loss": 76500.0,
+  "take_profit": 78500.0,
+  "risk_yuzdesi": 0.5
+}
+==============================================================================
+
+==============================================================================
+[2026-05-19 21:12:13 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : EXCHANGE_ERROR
+Symbol		 : BTC/USDT
+Error Message	 : Exchange error: binanceusdm testnet/sandbox mode is not supported for futures anymore, please check the deprecation announcement https://t.me/ccxt_announcements/92 and consider using the demo trading instead.
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "karar": "LONG",
+  "giris_fiyati": 77000.0,
+  "stop_loss": 76500.0,
+  "take_profit": 78500.0,
+  "risk_yuzdesi": 0.5
+}
+==============================================================================
+
+==============================================================================
+[2026-05-19 21:24:25 UTC] TRADE ERROR / GRAVEYARD ENTRY
+==============================================================================
+Error Type	 : EXCHANGE_ERROR
+Symbol		 : BTC/USDT
+Error Message	 : Exchange error: binanceusdm testnet/sandbox mode is not supported for futures anymore, please check the deprecation announcement https://t.me/ccxt_announcements/92 and consider using the demo trading instead.
+------------------------------------------------------------------------------
+[Payload Status]:
+{
+  "karar": "LONG",
+  "giris_fiyati": 77000.0,
+  "stop_loss": 76500.0,
+  "take_profit": 78500.0,
+  "risk_yuzdesi": 0.5
+}
+==============================================================================

@@ -1,0 +1,124 @@
+{
+  "coin": "ETH",
+  "tf": "3d",
+  "current_price": 1831.47,
+  "total_oi_usd": 10292356104.422503,
+  "funding": 3.7237888142419996e-05,
+  "long_ratio": 0.721829889624724,
+  "zones": {
+    "long": [
+      {
+        "side": "long",
+        "rank": 1,
+        "price_low": 1701.449,
+        "price_high": 1732.5174,
+        "price_center": 1706.0179,
+        "dollars": 254141882.62,
+        "pct_from_spot": -6.85
+      },
+      {
+        "side": "long",
+        "rank": 2,
+        "price_low": 1812.9296,
+        "price_high": 1820.2398,
+        "price_center": 1813.8434,
+        "dollars": 159722255.78,
+        "pct_from_spot": -0.962
+      },
+      {
+        "side": "long",
+        "rank": 3,
+        "price_low": 1822.0674,
+        "price_high": 1829.3776,
+        "price_center": 1828.4638,
+        "dollars": 143157890.32,
+        "pct_from_spot": -0.164
+      },
+      {
+        "side": "long",
+        "rank": 4,
+        "price_low": 1619.2093,
+        "price_high": 1628.3471,
+        "price_center": 1625.6057,
+        "dollars": 89107989.55,
+        "pct_from_spot": -11.24
+      },
+      {
+        "side": "long",
+        "rank": 5,
+        "price_low": 1734.3449,
+        "price_high": 1738.0,
+        "price_center": 1737.0863,
+        "dollars": 83067209.12,
+        "pct_from_spot": -5.153
+      }
+    ],
+    "short": [
+      {
+        "side": "short",
+        "rank": 1,
+        "price_low": 2059.6489,
+        "price_high": 2094.3723,
+        "price_center": 2080.6657,
+        "dollars": 240476906.64,
+        "pct_from_spot": 13.606
+      },
+      {
+        "side": "short",
+        "rank": 2,
+        "price_low": 1995.6846,
+        "price_high": 2030.4081,
+        "price_center": 2024.0116,
+        "dollars": 150808820.15,
+        "pct_from_spot": 10.513
+      },
+      {
+        "side": "short",
+        "rank": 3,
+        "price_low": 2041.3734,
+        "price_high": 2054.1662,
+        "price_center": 2044.1147,
+        "dollars": 74960259.34,
+        "pct_from_spot": 11.611
+      },
+      {
+        "side": "short",
+        "rank": 4,
+        "price_low": 1988.3744,
+        "price_high": 1992.0295,
+        "price_center": 1991.1157,
+        "dollars": 68042917.39,
+        "pct_from_spot": 8.717
+      },
+      {
+        "side": "short",
+        "rank": 5,
+        "price_low": 2032.2356,
+        "price_high": 2039.5458,
+        "price_center": 2038.632,
+        "dollars": 40176488.8,
+        "pct_from_spot": 11.311
+      }
+    ]
+  },
+  "nearest_magnets": {
+    "above": {
+      "side": "short",
+      "rank": 4,
+      "price_low": 1988.3744,
+      "price_high": 1992.0295,
+      "price_center": 1991.1157,
+      "dollars": 68042917.39,
+      "pct_from_spot": 8.717
+    },
+    "below": {
+      "side": "long",
+      "rank": 3,
+      "price_low": 1822.0674,
+      "price_high": 1829.3776,
+      "price_center": 1828.4638,
+      "dollars": 143157890.32,
+      "pct_from_spot": -0.164
+    }
+  }
+}

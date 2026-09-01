@@ -1,0 +1,15 @@
+[
+  {"date": "2026-08-07", "name": "NFP (Temmuz istihdam, 8:30 ET)"},
+  {"date": "2026-08-12", "name": "US CPI (Temmuz, 8:30 ET)"},
+  {"date": "2026-09-04", "name": "NFP (Agustos istihdam, 8:30 ET)"},
+  {"date": "2026-09-11", "name": "US CPI (Agustos, 8:30 ET)"},
+  {"date": "2026-09-16", "name": "FOMC faiz karari + Powell (14:00/14:30 ET)"},
+  {"date": "2026-10-02", "name": "NFP (Eylul istihdam, 8:30 ET)"},
+  {"date": "2026-10-14", "name": "US CPI (Eylul, 8:30 ET)"},
+  {"date": "2026-10-28", "name": "FOMC faiz karari + Powell (14:00/14:30 ET)"},
+  {"date": "2026-11-06", "name": "NFP (Ekim istihdam, 8:30 ET)"},
+  {"date": "2026-11-10", "name": "US CPI (Ekim, 8:30 ET)"},
+  {"date": "2026-12-04", "name": "NFP (Kasim istihdam, 8:30 ET)"},
+  {"date": "2026-12-09", "name": "FOMC faiz karari + Powell (14:00/14:30 ET)"},
+  {"date": "2026-12-10", "name": "US CPI (Kasim, 8:30 ET)"}
+]

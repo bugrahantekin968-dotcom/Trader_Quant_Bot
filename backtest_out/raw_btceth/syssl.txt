@@ -1,0 +1,2235 @@
+# syssl.txt — ZARARLA kapanan işlemler (248 adet)
+# Her blok: bot hangi puanlarla, nereyi destek/direnç görerek girdi + sonuç
+
+────────────────────────────────────────────────────────
+2023-07-14 18:00:00+00:00  BTCUSD  LONG  (score 43)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BULL @ 30983.25
+  Plan: entry=30061.73817  SL=29610.812097 (1.50%)  TP=31050.234286  RR=2.192  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=93h  |  MFE=+0.84R MAE=-1.22R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.9%  |  alt-TF dönüş (exhaustion)=32.0/100
+  Giriş-Çıkış: 2023-07-14 19:00:00+00:00 -> 2023-07-18 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-07-19 05:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 29705.486
+  Plan: entry=30038.19322  SL=29408.43114 (2.10%)  TP=31397.7  RR=2.159  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=123h  |  MFE=+0.60R MAE=-1.65R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.5%  |  alt-TF dönüş (exhaustion)=48.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2023-07-19 06:00:00+00:00 -> 2023-07-24 09:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-08-02 02:00:00+00:00  BTCUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 29705.486
+  Plan: entry=29751.23828  SL=29304.969706 (1.50%)  TP=31114.2425  RR=3.054  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=11h  |  MFE=+0.00R MAE=-1.12R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.9%  |  alt-TF dönüş (exhaustion)=27.0/100
+  Giriş-Çıkış: 2023-08-02 03:00:00+00:00 -> 2023-08-02 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-08-09 11:00:00+00:00  BTCUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 29762.488333
+  Plan: entry=29828.54336  SL=29381.11521 (1.50%)  TP=31114.2425  RR=2.874  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+0.00R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.5%  |  alt-TF dönüş (exhaustion)=9.0/100
+  Giriş-Çıkış: 2023-08-09 14:00:00+00:00 -> 2023-08-09 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-09-17 01:00:00+00:00  BTCUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 26681.272857
+  Plan: entry=26549.3427  SL=26948.085586 (1.50%)  TP=25666.894667  RR=2.213  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=30h  |  MFE=+0.43R MAE=-1.60R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.5%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2023-09-17 04:00:00+00:00 -> 2023-09-18 10:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-09-20 03:00:00+00:00  BTCUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=7 | sr_proximity=9 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 26646.818333
+  Plan: entry=27019.42299  SL=26614.131645 (1.50%)  TP=28437.942697  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=31h  |  MFE=+0.69R MAE=-1.14R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.6%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2023-09-20 05:00:00+00:00 -> 2023-09-21 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-09-27 09:00:00+00:00  BTCUSD  SHORT  (score 50)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=2 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BEAR @ 26377.7
+  Plan: entry=26424.18779  SL=26820.550607 (1.50%)  TP=25506.614  RR=2.315  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.9%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2023-09-27 10:00:00+00:00 -> 2023-09-27 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-10-04 12:00:00+00:00  BTCUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=1 | sr_proximity=5 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 26750.55
+  Plan: entry=27514.87996  SL=26483.0445 (3.75%)  TP=29762.488333  RR=2.178  pos=$10000
+  SONUÇ: TIMEOUT  |  R=-0.59  |  tutuş=240h  |  MFE=+0.76R MAE=-0.95R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.7%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2023-10-04 13:00:00+00:00 -> 2023-10-14 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-12-29 01:00:00+00:00  BTCUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 42430.16
+  Plan: entry=42416.67402  SL=43941.859343 (3.60%)  TP=38029.06  RR=2.877  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=93h  |  MFE=+0.73R MAE=-1.16R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.1%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2023-12-29 02:00:00+00:00 -> 2024-01-01 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-15 20:00:00+00:00  BTCUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 42821.782
+  Plan: entry=42874.08  SL=42230.9688 (1.50%)  TP=44294.512222  RR=2.209  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+0.47R MAE=-1.28R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.5%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2024-01-15 21:00:00+00:00 -> 2024-01-16 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-19 03:00:00+00:00  BTCUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 41511.13
+  Plan: entry=41315.33525  SL=41938.1795 (1.51%)  TP=39135.380375  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=12h  |  MFE=+1.66R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.7%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-01-19 06:00:00+00:00 -> 2024-01-19 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-20 19:00:00+00:00  BTCUSD  SHORT  (score 46)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=5 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BEAR @ 42200.69
+  Plan: entry=41674.59296  SL=42618.8286 (2.27%)  TP=38369.76822  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=176h  |  MFE=+3.30R MAE=-1.16R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.0%  |  alt-TF dönüş (exhaustion)=11.0/100
+  Giriş-Çıkış: 2024-01-20 20:00:00+00:00 -> 2024-01-28 04:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-03-27 12:00:00+00:00  BTCUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=9 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 68774.66
+  Plan: entry=69047.844112  SL=68012.126451 (1.50%)  TP=71564.155  RR=2.43  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=132h  |  MFE=+2.42R MAE=-2.94R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+10.0%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-03-27 14:00:00+00:00 -> 2024-04-02 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-02 17:00:00+00:00  BTCUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 65735.694286
+  Plan: entry=65739.22602  SL=67840.76777 (3.20%)  TP=58383.829895  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=44h  |  MFE=+0.59R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.1%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-04-02 18:00:00+00:00 -> 2024-04-04 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-05 03:00:00+00:00  BTCUSD  LONG  (score 63)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 67159.533333
+  Plan: entry=67728.26202  SL=66487.938 (1.83%)  TP=70523.325  RR=2.253  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.02R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.3%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2024-04-05 04:00:00+00:00 -> 2024-04-05 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-14 01:00:00+00:00  BTCUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 64299.893
+  Plan: entry=63936.99457  SL=64900.86886 (1.51%)  TP=60955.181429  RR=3.094  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=20h  |  MFE=+1.87R MAE=-1.58R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.0%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-04-14 02:00:00+00:00 -> 2024-04-14 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-14 23:00:00+00:00  BTCUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 65652.089167
+  Plan: entry=65530.51632  SL=63709.8228 (2.78%)  TP=69231.906  RR=2.033  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+0.73R MAE=-1.22R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.9%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2024-04-15 00:00:00+00:00 -> 2024-04-15 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-17 15:00:00+00:00  BTCUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 60955.181429
+  Plan: entry=60578.229287  SL=61491.468925 (1.51%)  TP=57381.890556  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.50R MAE=-1.51R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-9.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-04-17 16:00:00+00:00 -> 2024-04-17 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-18 07:00:00+00:00  BTCUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 62307.776364
+  Plan: entry=61300.43616  SL=62930.854128 (2.66%)  TP=55593.973273  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.00R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.6%  |  alt-TF dönüş (exhaustion)=9.0/100
+  Giriş-Çıkış: 2024-04-18 08:00:00+00:00 -> 2024-04-18 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-18 12:00:00+00:00  BTCUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 62307.776364
+  Plan: entry=62357.42592  SL=64252.844556 (3.04%)  TP=55723.460695  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+1.46R MAE=-1.37R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.0%  |  alt-TF dönüş (exhaustion)=22.0/100
+  Giriş-Çıkış: 2024-04-18 13:00:00+00:00 -> 2024-04-19 06:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-20 23:00:00+00:00  BTCUSD  LONG  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 64938.104667
+  Plan: entry=64810.70882  SL=63033.7104 (2.74%)  TP=68882.0  RR=2.291  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=109h  |  MFE=+1.36R MAE=-1.14R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.4%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-04-21 00:00:00+00:00 -> 2024-04-25 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-25 14:00:00+00:00  BTCUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 64158.0325
+  Plan: entry=64306.426415  SL=65275.870029 (1.51%)  TP=62307.964167  RR=2.061  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.00R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.7%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-04-25 16:00:00+00:00 -> 2024-04-25 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-02 13:00:00+00:00  BTCUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 59177.552857
+  Plan: entry=59080.74782  SL=59971.41236 (1.51%)  TP=55963.42193  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=13h  |  MFE=+0.50R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-9.2%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2024-05-02 14:00:00+00:00 -> 2024-05-03 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-06 08:00:00+00:00  BTCUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 64477.013333
+  Plan: entry=65012.75392  SL=63832.2432 (1.82%)  TP=68882.0  RR=3.278  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.00R MAE=-1.41R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.8%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-05-06 10:00:00+00:00 -> 2024-05-06 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-08 01:00:00+00:00  BTCUSD  SHORT  (score 59)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 62595.908333
+  Plan: entry=62655.37062  SL=65087.64816 (3.88%)  TP=54142.39923  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=182h  |  MFE=+1.01R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.2%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2024-05-08 02:00:00+00:00 -> 2024-05-15 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-23 17:00:00+00:00  BTCUSD  LONG  (score 62)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=10 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 67160.595
+  Plan: entry=67522.775317  SL=66509.933687 (1.50%)  TP=71067.721021  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.42R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.0%  |  alt-TF dönüş (exhaustion)=7.0/100
+  Giriş-Çıkış: 2024-05-23 18:00:00+00:00 -> 2024-05-23 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-09 19:00:00+00:00  BTCUSD  LONG  (score 67)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 69011.145714
+  Plan: entry=69616.63341  SL=68572.383909 (1.50%)  TP=72135.8875  RR=2.413  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=29h  |  MFE=+0.56R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.9%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-06-09 20:00:00+00:00 -> 2024-06-11 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-12 14:00:00+00:00  BTCUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 68985.0
+  Plan: entry=69603.838664  SL=68559.781084 (1.50%)  TP=72135.8875  RR=2.425  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.25R MAE=-2.25R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.1%  |  alt-TF dönüş (exhaustion)=43.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2024-06-12 15:00:00+00:00 -> 2024-06-12 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-14 16:00:00+00:00  BTCUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 66026.785714
+  Plan: entry=65518.28393  SL=66505.996753 (1.51%)  TP=62900.89  RR=2.65  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.45R MAE=-1.12R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-06-14 17:00:00+00:00 -> 2024-06-14 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-24 21:00:00+00:00  BTCUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 60333.11
+  Plan: entry=60233.122659  SL=61141.159684 (1.51%)  TP=57054.993071  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.25R MAE=-1.50R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-9.4%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-06-24 22:00:00+00:00 -> 2024-06-25 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-26 00:00:00+00:00  BTCUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 62820.741667
+  Plan: entry=61773.327934  SL=62704.584134 (1.51%)  TP=58513.931234  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=117h  |  MFE=+1.84R MAE=-1.27R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.5%  |  alt-TF dönüş (exhaustion)=17.0/100
+  Giriş-Çıkış: 2024-06-26 01:00:00+00:00 -> 2024-06-30 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-15 23:00:00+00:00  BTCUSD  LONG  (score 64)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 64457.315556
+  Plan: entry=64674.18545  SL=63704.072668 (1.50%)  TP=67177.64  RR=2.581  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.33R MAE=-1.25R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.6%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-07-16 00:00:00+00:00 -> 2024-07-16 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-17 10:00:00+00:00  BTCUSD  LONG  (score 63)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 64401.98
+  Plan: entry=64674.18545  SL=63704.072668 (1.50%)  TP=67177.64  RR=2.581  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+0.75R MAE=-1.00R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.8%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2024-07-17 11:00:00+00:00 -> 2024-07-18 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-19 17:00:00+00:00  BTCUSD  LONG  (score 63)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 66068.41125
+  Plan: entry=66621.90916  SL=65407.727138 (1.82%)  TP=70669.69  RR=3.334  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=123h  |  MFE=+1.53R MAE=-1.23R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+7.8%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-07-19 18:00:00+00:00 -> 2024-07-24 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-26 02:00:00+00:00  BTCUSD  LONG  (score 66)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 66068.41125
+  Plan: entry=66879.98198  SL=65407.727138 (2.20%)  TP=70669.69  RR=2.574  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=111h  |  MFE=+2.17R MAE=-1.07R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.8%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-07-26 05:00:00+00:00 -> 2024-07-30 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-31 17:00:00+00:00  BTCUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 65897.495
+  Plan: entry=64999.491667  SL=64024.499292 (1.50%)  TP=67105.12  RR=2.16  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=7h  |  MFE=+0.43R MAE=-1.13R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.4%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2024-07-31 19:00:00+00:00 -> 2024-08-01 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-08-08 21:00:00+00:00  BTCUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 60196.935714
+  Plan: entry=61051.34262  SL=59594.966357 (2.39%)  TP=64401.98  RR=2.301  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+1.16R MAE=-1.04R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.8%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2024-08-08 22:00:00+00:00 -> 2024-08-09 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-08-13 19:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 60196.935714
+  Plan: entry=60698.5097  SL=59594.966357 (1.82%)  TP=62936.953333  RR=2.028  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+1.00R MAE=-1.11R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.5%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-08-13 20:00:00+00:00 -> 2024-08-14 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-08-18 02:00:00+00:00  BTCUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 59994.53875
+  Plan: entry=60104.350907  SL=59202.785644 (1.50%)  TP=62869.258  RR=3.067  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=20h  |  MFE=+0.20R MAE=-1.88R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-08-18 03:00:00+00:00 -> 2024-08-18 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-08-24 08:00:00+00:00  BTCUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | sr_proximity=9 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 62869.258
+  Plan: entry=64287.168  SL=62240.56542 (3.18%)  TP=68973.0675  RR=2.29  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=74h  |  MFE=+0.35R MAE=-1.00R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.7%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2024-08-24 09:00:00+00:00 -> 2024-08-27 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-08-27 12:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=2 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 61479.34
+  Plan: entry=62294.72088  SL=60864.5466 (2.30%)  TP=66068.41125  RR=2.639  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=8h  |  MFE=+0.00R MAE=-1.60R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.6%  |  alt-TF dönüş (exhaustion)=47.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2024-08-27 13:00:00+00:00 -> 2024-08-27 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-09-14 02:00:00+00:00  BTCUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 59902.017
+  Plan: entry=60158.396617  SL=59256.020667 (1.50%)  TP=62869.258  RR=3.004  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=42h  |  MFE=+0.26R MAE=-1.63R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.6%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-09-14 05:00:00+00:00 -> 2024-09-15 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-09-16 20:00:00+00:00  BTCUSD  SHORT  (score 69)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 57701.101667
+  Plan: entry=57742.873805  SL=58613.36939 (1.51%)  TP=55489.014  RR=2.589  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=8h  |  MFE=+0.15R MAE=-1.19R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.0%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-09-16 21:00:00+00:00 -> 2024-09-17 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-09-23 04:00:00+00:00  BTCUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 62879.271111
+  Plan: entry=63784.4754  SL=62250.4784 (2.40%)  TP=67208.176  RR=2.232  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=202h  |  MFE=+1.77R MAE=-1.28R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+6.7%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-09-23 05:00:00+00:00 -> 2024-10-01 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-03 08:00:00+00:00  BTCUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=9 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 61427.281667
+  Plan: entry=60474.708  SL=62041.554484 (2.59%)  TP=56065.004  RR=2.814  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=31h  |  MFE=+0.41R MAE=-1.16R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.1%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2024-10-03 09:00:00+00:00 -> 2024-10-04 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-10 18:00:00+00:00  BTCUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 60028.955833
+  Plan: entry=59621.01402  SL=60629.245391 (1.69%)  TP=56092.20422  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+0.03R MAE=-1.14R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-10-10 19:00:00+00:00 -> 2024-10-11 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-16 01:00:00+00:00  BTCUSD  LONG  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 67331.813333
+  Plan: entry=67241.23802  SL=65454.9819 (2.66%)  TP=70839.6125  RR=2.014  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=184h  |  MFE=+1.27R MAE=-1.11R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+8.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-10-16 02:00:00+00:00 -> 2024-10-23 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-23 19:00:00+00:00  BTCUSD  SHORT  (score 43)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=4 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BEAR @ 68010.0
+  Plan: entry=66538.472  SL=68514.3701 (2.97%)  TP=62556.601429  RR=2.015  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=25h  |  MFE=+0.10R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.3%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2024-10-23 20:00:00+00:00 -> 2024-10-24 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-12-02 18:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 94999.89125
+  Plan: entry=95454.84772  SL=94023.025004 (1.50%)  TP=98330.877778  RR=2.009  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=18h  |  MFE=+0.61R MAE=-1.25R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+9.1%  |  alt-TF dönüş (exhaustion)=60.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2024-12-02 19:00:00+00:00 -> 2024-12-03 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-12-21 07:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=2 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 98758.535385
+  Plan: entry=98475.997  SL=96998.857045 (1.50%)  TP=101965.613333  RR=2.362  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.14R MAE=-1.41R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.8%  |  alt-TF dönüş (exhaustion)=33.0/100
+  Giriş-Çıkış: 2024-12-21 08:00:00+00:00 -> 2024-12-21 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-10 14:00:00+00:00  BTCUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=9 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 96254.979167
+  Plan: entry=94303.86126  SL=97217.528959 (3.09%)  TP=84106.024315  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=90h  |  MFE=+1.73R MAE=-1.05R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.2%  |  alt-TF dönüş (exhaustion)=14.0/100
+  Giriş-Çıkış: 2025-01-10 15:00:00+00:00 -> 2025-01-14 09:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-31 17:00:00+00:00  BTCUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=5 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 101969.415
+  Plan: entry=103020.08775  SL=101474.786434 (1.50%)  TP=106818.136  RR=2.458  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=15h  |  MFE=+0.00R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.9%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-01-31 18:00:00+00:00 -> 2025-02-01 09:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-03 10:00:00+00:00  BTCUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 96539.8725
+  Plan: entry=95894.07534  SL=97505.271225 (1.68%)  TP=91687.96  RR=2.611  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-2.24R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.8%  |  alt-TF dönüş (exhaustion)=24.0/100
+  Giriş-Çıkış: 2025-02-03 14:00:00+00:00 -> 2025-02-03 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-05 20:00:00+00:00  BTCUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 99411.218333
+  Plan: entry=97518.03678  SL=100405.330516 (2.96%)  TP=91622.68  RR=2.042  pos=$10000
+  SONUÇ: TIMEOUT  |  R=-0.06  |  tutuş=240h  |  MFE=+1.19R MAE=-0.91R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.0%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-02-05 21:00:00+00:00 -> 2025-02-15 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-16 22:00:00+00:00  BTCUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=5 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 84506.291429
+  Plan: entry=82257.89742  SL=85351.354343 (3.76%)  TP=71430.798188  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=67h  |  MFE=+0.36R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.6%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-03-16 23:00:00+00:00 -> 2025-03-19 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-19 19:00:00+00:00  BTCUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 84537.60875
+  Plan: entry=85359.495775  SL=84079.103339 (1.50%)  TP=89840.869304  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=20h  |  MFE=+1.64R MAE=-1.33R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.8%  |  alt-TF dönüş (exhaustion)=40.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2025-03-19 20:00:00+00:00 -> 2025-03-20 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-20 21:00:00+00:00  BTCUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 84439.566667
+  Plan: entry=84518.7  SL=87716.016843 (3.78%)  TP=73328.091048  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=82h  |  MFE=+0.42R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.9%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2025-03-21 00:00:00+00:00 -> 2025-03-24 10:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-25 07:00:00+00:00  BTCUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 86780.34875
+  Plan: entry=86609.69364  SL=87908.839045 (1.50%)  TP=83788.371765  RR=2.172  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.00R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.9%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2025-03-25 08:00:00+00:00 -> 2025-03-25 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-26 18:00:00+00:00  BTCUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=2 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 86741.905556
+  Plan: entry=86370.92706  SL=87666.490966 (1.50%)  TP=82944.615  RR=2.645  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=7h  |  MFE=+0.00R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.2%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-03-26 19:00:00+00:00 -> 2025-03-27 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-03-29 12:00:00+00:00  BTCUSD  SHORT  (score 62)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 82749.345
+  Plan: entry=82627.6254  SL=85382.984838 (3.33%)  TP=72983.867369  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=74h  |  MFE=+0.49R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.2%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-03-29 13:00:00+00:00 -> 2025-04-01 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-04-10 21:00:00+00:00  BTCUSD  SHORT  (score 64)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 81012.864
+  Plan: entry=80157.932984  SL=81366.344034 (1.51%)  TP=75928.494309  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+0.00R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-04-11 01:00:00+00:00 -> 2025-04-11 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-04-17 00:00:00+00:00  BTCUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 84831.5975
+  Plan: entry=84378.42  SL=85679.913475 (1.54%)  TP=81349.606  RR=2.327  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=95h  |  MFE=+0.49R MAE=-2.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.2%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-04-17 01:00:00+00:00 -> 2025-04-21 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-03 02:00:00+00:00  BTCUSD  LONG  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 95399.801667
+  Plan: entry=96340.44298  SL=94445.80365 (1.97%)  TP=101077.3225  RR=2.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=44h  |  MFE=+0.13R MAE=-1.16R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+8.1%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2025-05-03 03:00:00+00:00 -> 2025-05-04 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-23 12:00:00+00:00  BTCUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=10 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 103017.048
+  Plan: entry=101830.228878  SL=103365.357957 (1.51%)  TP=96457.277103  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=7h  |  MFE=+1.44R MAE=-1.36R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.6%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-06-23 13:00:00+00:00 -> 2025-06-23 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-08-22 13:00:00+00:00  BTCUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=5 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 115504.15375
+  Plan: entry=114801.569122  SL=116532.246043 (1.51%)  TP=109747.635  RR=2.92  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-1.44R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.0%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-08-22 14:00:00+00:00 -> 2025-08-22 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-08-23 04:00:00+00:00  BTCUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 115504.15375
+  Plan: entry=115694.91646  SL=113959.492713 (1.50%)  TP=119182.01  RR=2.009  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=37h  |  MFE=+0.13R MAE=-2.89R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.0%  |  alt-TF dönüş (exhaustion)=21.0/100
+  Giriş-Çıkış: 2025-08-23 06:00:00+00:00 -> 2025-08-24 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-08-25 20:00:00+00:00  BTCUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 109934.108
+  Plan: entry=109781.08392  SL=111427.800179 (1.50%)  TP=106078.7375  RR=2.248  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=24h  |  MFE=+0.68R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-08-25 21:00:00+00:00 -> 2025-08-26 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-08-27 02:00:00+00:00  BTCUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 112561.604286
+  Plan: entry=111504.000887  SL=113184.965725 (1.51%)  TP=106078.7375  RR=3.227  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+0.69R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.6%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2025-08-27 03:00:00+00:00 -> 2025-08-28 06:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-08-29 11:00:00+00:00  BTCUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 112267.6725
+  Plan: entry=111504.000887  SL=113184.965725 (1.51%)  TP=106078.7375  RR=3.227  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=168h  |  MFE=+2.53R MAE=-1.12R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.1%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2025-08-29 12:00:00+00:00 -> 2025-09-05 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-09-09 17:00:00+00:00  BTCUSD  SHORT  (score 61)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 111134.993333
+  Plan: entry=111578.037594  SL=113260.118562 (1.51%)  TP=106078.7375  RR=3.269  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=15h  |  MFE=+0.39R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.5%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-09-09 21:00:00+00:00 -> 2025-09-10 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-09-24 13:00:00+00:00  BTCUSD  SHORT  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 114127.405556
+  Plan: entry=113778.674119  SL=115493.930513 (1.51%)  TP=108416.0075  RR=3.126  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=162h  |  MFE=+3.01R MAE=-1.64R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.1%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2025-09-24 14:00:00+00:00 -> 2025-10-01 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-14 13:00:00+00:00  BTCUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 111134.993333
+  Plan: entry=111456.860828  SL=113137.115012 (1.51%)  TP=106078.7375  RR=3.201  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.23R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.4%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2025-10-14 14:00:00+00:00 -> 2025-10-14 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-20 12:00:00+00:00  BTCUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 110108.248
+  Plan: entry=110622.12238  SL=107372.2518 (2.94%)  TP=117478.305  RR=2.11  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=46h  |  MFE=+1.04R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.8%  |  alt-TF dönüş (exhaustion)=18.0/100
+  Giriş-Çıkış: 2025-10-20 13:00:00+00:00 -> 2025-10-22 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-24 04:00:00+00:00  BTCUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 110996.19625
+  Plan: entry=110956.1929  SL=107372.2518 (3.23%)  TP=119966.80875  RR=2.514  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=154h  |  MFE=+1.52R MAE=-1.01R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-10-24 05:00:00+00:00 -> 2025-10-30 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-11-08 20:00:00+00:00  BTCUSD  SHORT  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=10 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 103448.9575
+  Plan: entry=102230.43323  SL=103771.59554 (1.51%)  TP=98575.225  RR=2.372  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+0.54R MAE=-1.18R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.9%  |  alt-TF dönüş (exhaustion)=11.0/100
+  Giriş-Çıkış: 2025-11-08 21:00:00+00:00 -> 2025-11-09 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-11-12 15:00:00+00:00  BTCUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=10 | sr_quality=3 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 103448.9575
+  Plan: entry=102230.43323  SL=103771.59554 (1.51%)  TP=98575.225  RR=2.372  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=15h  |  MFE=+0.92R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.9%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-11-12 16:00:00+00:00 -> 2025-11-13 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-02 12:00:00+00:00  BTCUSD  SHORT  (score 62)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 88394.72125
+  Plan: entry=89255.94765  SL=90601.5147 (1.51%)  TP=86277.911667  RR=2.213  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-1.45R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-8.7%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-12-02 14:00:00+00:00 -> 2025-12-02 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-19 14:00:00+00:00  BTCUSD  SHORT  (score 61)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 88411.616429
+  Plan: entry=89207.495572  SL=90552.332188 (1.51%)  TP=85760.399  RR=2.563  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=69h  |  MFE=+1.76R MAE=-1.03R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.9%  |  alt-TF dönüş (exhaustion)=7.0/100
+  Giriş-Çıkış: 2025-12-19 15:00:00+00:00 -> 2025-12-22 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-01-05 05:00:00+00:00  BTCUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 91797.274286
+  Plan: entry=92258.741212  SL=90874.860094 (1.50%)  TP=97102.325126  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=60h  |  MFE=+1.83R MAE=-1.10R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.9%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2026-01-05 06:00:00+00:00 -> 2026-01-07 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-01-08 03:00:00+00:00  BTCUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 91730.4825
+  Plan: entry=90995.0268  SL=92647.787325 (1.82%)  TP=87565.568462  RR=2.075  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=125h  |  MFE=+1.02R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.6%  |  alt-TF dönüş (exhaustion)=9.0/100
+  Giriş-Çıkış: 2026-01-08 04:00:00+00:00 -> 2026-01-13 09:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-01-14 02:00:00+00:00  BTCUSD  LONG  (score 59)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 93719.488
+  Plan: entry=94915.289119  SL=93491.559782 (1.50%)  TP=99898.341797  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=114h  |  MFE=+2.11R MAE=-2.11R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2026-01-14 06:00:00+00:00 -> 2026-01-19 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-02-13 15:00:00+00:00  BTCUSD  SHORT  (score 38)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=2 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BEAR @ 68308.0
+  Plan: entry=68760.81212  SL=69792.224302 (1.50%)  TP=66693.628  RR=2.004  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+0.12R MAE=-1.08R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-13.5%  |  alt-TF dönüş (exhaustion)=57.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2026-02-13 16:00:00+00:00 -> 2026-02-14 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-08 09:00:00+00:00  BTCUSD  SHORT  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 67834.715
+  Plan: entry=67816.362  SL=68833.60743 (1.50%)  TP=65017.3  RR=2.752  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+2.16R MAE=-1.46R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.5%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2026-03-08 10:00:00+00:00 -> 2026-03-09 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-11 18:00:00+00:00  BTCUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 70392.497143
+  Plan: entry=70476.40472  SL=68167.076528 (3.28%)  TP=78559.05339  RR=3.5  pos=$10000
+  SONUÇ: TIMEOUT  |  R=-0.04  |  tutuş=240h  |  MFE=+2.39R MAE=-0.73R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.2%  |  alt-TF dönüş (exhaustion)=15.0/100
+  Giriş-Çıkış: 2026-03-11 19:00:00+00:00 -> 2026-03-21 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-22 20:00:00+00:00  BTCUSD  SHORT  (score 61)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 68760.345
+  Plan: entry=68312.81292  SL=69447.94845 (1.66%)  TP=65631.58  RR=2.362  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=13h  |  MFE=+0.76R MAE=-2.81R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.8%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2026-03-22 22:00:00+00:00 -> 2026-03-23 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-07 06:00:00+00:00  BTCUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 69348.193333
+  Plan: entry=68705.4867  SL=70041.675266 (1.94%)  TP=65539.74  RR=2.369  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=13h  |  MFE=+0.73R MAE=-1.13R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.8%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2026-04-07 08:00:00+00:00 -> 2026-04-07 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-13 10:00:00+00:00  BTCUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 70793.22
+  Plan: entry=70897.39176  SL=72692.626475 (2.53%)  TP=67226.476667  RR=2.045  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=8h  |  MFE=+0.08R MAE=-1.44R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.3%  |  alt-TF dönüş (exhaustion)=21.0/100
+  Giriş-Çıkış: 2026-04-13 11:00:00+00:00 -> 2026-04-13 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-14 08:00:00+00:00  BTCUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=3 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 74163.435
+  Plan: entry=74600.5  SL=73421.80065 (1.58%)  TP=78725.947725  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=52h  |  MFE=+1.22R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+6.7%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2026-04-14 09:00:00+00:00 -> 2026-04-16 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-28 02:00:00+00:00  BTCUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 76588.387143
+  Plan: entry=76737.14814  SL=75586.090918 (1.50%)  TP=80765.848417  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=39h  |  MFE=+1.01R MAE=-1.56R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.2%  |  alt-TF dönüş (exhaustion)=47.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2026-04-28 03:00:00+00:00 -> 2026-04-29 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-30 03:00:00+00:00  BTCUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 76590.332857
+  Plan: entry=76079.9562  SL=77356.236186 (1.68%)  TP=71972.8975  RR=3.218  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=20h  |  MFE=+0.16R MAE=-1.08R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.4%  |  alt-TF dönüş (exhaustion)=18.0/100
+  Giriş-Çıkış: 2026-04-30 07:00:00+00:00 -> 2026-05-01 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-08-30 09:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 1703.635
+  Plan: entry=1703.627425  SL=1678.073014 (1.50%)  TP=1793.067865  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=26h  |  MFE=+0.99R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.1%  |  alt-TF dönüş (exhaustion)=17.0/100
+  Giriş-Çıkış: 2023-08-30 13:00:00+00:00 -> 2023-08-31 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2023-09-28 16:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 1651.91875
+  Plan: entry=1652.42852  SL=1604.837025 (2.88%)  TP=1818.998753  RR=3.5  pos=$10000
+  SONUÇ: TIMEOUT  |  R=-0.35  |  tutuş=240h  |  MFE=+2.07R MAE=-0.96R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.1%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2023-09-28 18:00:00+00:00 -> 2023-10-08 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-04 17:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2255.726667
+  Plan: entry=2273.869929  SL=2239.76188 (1.50%)  TP=2371.2825  RR=2.856  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=7h  |  MFE=+0.61R MAE=-1.81R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.6%  |  alt-TF dönüş (exhaustion)=43.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2024-01-04 18:00:00+00:00 -> 2024-01-05 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-23 10:00:00+00:00  ETHUSD  SHORT  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2253.5875
+  Plan: entry=2227.7967  SL=2276.123375 (2.17%)  TP=2106.25  RR=2.515  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=77h  |  MFE=+1.24R MAE=-1.12R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.7%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2024-01-23 11:00:00+00:00 -> 2024-01-26 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-28 21:00:00+00:00  ETHUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2274.3925
+  Plan: entry=2268.027  SL=2302.047405 (1.50%)  TP=2155.396667  RR=3.311  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=15h  |  MFE=+1.01R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.4%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2024-01-29 01:00:00+00:00 -> 2024-01-29 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-01-30 01:00:00+00:00  ETHUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2296.348182
+  Plan: entry=2312.0829  SL=2277.401656 (1.50%)  TP=2423.825  RR=3.222  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=42h  |  MFE=+2.30R MAE=-1.40R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.1%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-01-30 03:00:00+00:00 -> 2024-01-31 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-02-01 02:00:00+00:00  ETHUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2269.55
+  Plan: entry=2265.021  SL=2298.996315 (1.50%)  TP=2171.05  RR=2.766  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=10h  |  MFE=+0.09R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.3%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-02-01 04:00:00+00:00 -> 2024-02-01 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-02-01 23:00:00+00:00  ETHUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2296.332308
+  Plan: entry=2301.8118  SL=2267.284623 (1.50%)  TP=2410.37  RR=3.144  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=67h  |  MFE=+0.82R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.3%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-02-02 00:00:00+00:00 -> 2024-02-04 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-02-05 00:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2295.05
+  Plan: entry=2285.061  SL=2360.50534 (3.30%)  TP=2132.246  RR=2.026  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=37h  |  MFE=+0.02R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.1%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-02-05 03:00:00+00:00 -> 2024-02-06 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-03-23 13:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3381.407143
+  Plan: entry=3372.40134  SL=3495.1151 (3.64%)  TP=2942.90318  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=39h  |  MFE=+0.60R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.5%  |  alt-TF dönüş (exhaustion)=14.0/100
+  Giriş-Çıkış: 2024-03-23 14:00:00+00:00 -> 2024-03-25 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-03-26 16:00:00+00:00  ETHUSD  LONG  (score 64)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 3529.91375
+  Plan: entry=3554.28718  SL=3494.614613 (1.68%)  TP=3678.43  RR=2.08  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=23h  |  MFE=+1.87R MAE=-1.18R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.9%  |  alt-TF dönüş (exhaustion)=22.0/100
+  Giriş-Çıkış: 2024-03-26 17:00:00+00:00 -> 2024-03-27 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-03-28 21:00:00+00:00  ETHUSD  LONG  (score 61)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 3530.475556
+  Plan: entry=3553.46882  SL=3495.1708 (1.64%)  TP=3675.912  RR=2.1  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+0.53R MAE=-1.24R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.5%  |  alt-TF dönüş (exhaustion)=7.0/100
+  Giriş-Çıkış: 2024-03-28 22:00:00+00:00 -> 2024-03-29 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-04 04:00:00+00:00  ETHUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3289.015714
+  Plan: entry=3293.9748  SL=3398.077186 (3.16%)  TP=2929.616451  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=12h  |  MFE=+0.00R MAE=-1.18R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.6%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-04-04 05:00:00+00:00 -> 2024-04-04 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-05 06:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3289.015714
+  Plan: entry=3294.76638  SL=3398.077186 (3.14%)  TP=2933.178561  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=39h  |  MFE=+0.82R MAE=-1.00R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.4%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-04-05 08:00:00+00:00 -> 2024-04-06 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-13 17:00:00+00:00  ETHUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3224.131
+  Plan: entry=3200.39802  SL=3323.532512 (3.85%)  TP=2769.427296  RR=3.5  pos=$10000
+  SONUÇ: TIMEOUT  |  R=-0.24  |  tutuş=240h  |  MFE=+2.83R MAE=-0.63R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.2%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2024-04-13 18:00:00+00:00 -> 2024-04-23 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-24 07:00:00+00:00  ETHUSD  LONG  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3231.6
+  Plan: entry=3243.60978  SL=3194.955633 (1.50%)  TP=3354.521429  RR=2.28  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+1.03R MAE=-1.16R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.2%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-04-24 09:00:00+00:00 -> 2024-04-24 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-26 19:00:00+00:00  ETHUSD  SHORT  (score 53)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BEAR @ 3152.0
+  Plan: entry=3136.97384  SL=3223.5564 (2.76%)  TP=2873.425  RR=3.044  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=21h  |  MFE=+0.81R MAE=-1.48R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.2%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2024-04-26 20:00:00+00:00 -> 2024-04-27 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-28 06:00:00+00:00  ETHUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3298.7375
+  Plan: entry=3315.36598  SL=3265.63549 (1.50%)  TP=3434.736  RR=2.4  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+0.84R MAE=-1.27R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.8%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-04-28 07:00:00+00:00 -> 2024-04-28 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-04-29 08:00:00+00:00  ETHUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3208.289091
+  Plan: entry=3192.38785  SL=3240.5143 (1.51%)  TP=3072.6975  RR=2.487  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=14h  |  MFE=+1.60R MAE=-1.22R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.8%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2024-04-29 10:00:00+00:00 -> 2024-04-30 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-01 17:00:00+00:00  ETHUSD  SHORT  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2963.988571
+  Plan: entry=2927.76384  SL=2993.628457 (2.25%)  TP=2697.237682  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.27R MAE=-1.11R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-9.7%  |  alt-TF dönüş (exhaustion)=9.0/100
+  Giriş-Çıkış: 2024-05-01 18:00:00+00:00 -> 2024-05-01 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-03 08:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3042.918
+  Plan: entry=3038.260691  SL=3084.063616 (1.51%)  TP=2877.950454  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.17R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.4%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-05-03 12:00:00+00:00 -> 2024-05-03 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-04 12:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 3147.464
+  Plan: entry=3144.50838  SL=3018.972825 (3.99%)  TP=3429.194286  RR=2.268  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=82h  |  MFE=+0.61R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.6%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-05-04 13:00:00+00:00 -> 2024-05-07 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-05-08 20:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2968.83
+  Plan: entry=2957.51322  SL=3061.226675 (3.51%)  TP=2594.516128  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=207h  |  MFE=+0.92R MAE=-1.23R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.0%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-05-08 21:00:00+00:00 -> 2024-05-17 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-09 23:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3626.084
+  Plan: entry=3695.368669  SL=3639.938139 (1.50%)  TP=3830.068571  RR=2.43  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=25h  |  MFE=+0.33R MAE=-1.62R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.7%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2024-06-10 00:00:00+00:00 -> 2024-06-11 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-24 09:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3384.143333
+  Plan: entry=3315.2172  SL=3417.984766 (3.10%)  TP=3049.705  RR=2.584  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=29h  |  MFE=+0.71R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.6%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-06-24 10:00:00+00:00 -> 2024-06-25 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-25 16:00:00+00:00  ETHUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3455.972
+  Plan: entry=3420.807513  SL=3472.377475 (1.51%)  TP=3240.312644  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=44h  |  MFE=+1.86R MAE=-1.09R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.1%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2024-06-25 18:00:00+00:00 -> 2024-06-27 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-06-27 15:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3451.79
+  Plan: entry=3445.8445  SL=3345.89904 (2.90%)  TP=3713.664286  RR=2.68  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=131h  |  MFE=+0.79R MAE=-1.15R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-06-27 16:00:00+00:00 -> 2024-07-03 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-08 01:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2900.201667
+  Plan: entry=2862.65388  SL=2929.203684 (2.32%)  TP=2629.729567  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.00R MAE=-1.05R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-15.5%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-07-08 02:00:00+00:00 -> 2024-07-08 06:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-10 11:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=3 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3147.115714
+  Plan: entry=3108.42444  SL=3178.586871 (2.26%)  TP=2964.158889  RR=2.056  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=24h  |  MFE=+0.77R MAE=-1.55R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.0%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2024-07-10 12:00:00+00:00 -> 2024-07-11 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-12 01:00:00+00:00  ETHUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3148.66
+  Plan: entry=3094.68702  SL=3180.1466 (2.76%)  TP=2895.794  RR=2.327  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=44h  |  MFE=+0.57R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.8%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-07-12 02:00:00+00:00 -> 2024-07-13 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-15 23:00:00+00:00  ETHUSD  LONG  (score 63)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3461.50875
+  Plan: entry=3476.42322  SL=3341.4381 (3.88%)  TP=3852.1525  RR=2.783  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=213h  |  MFE=+0.64R MAE=-1.31R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.8%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-07-16 00:00:00+00:00 -> 2024-07-24 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-25 02:00:00+00:00  ETHUSD  SHORT  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3223.571667
+  Plan: entry=3190.67862  SL=3255.807384 (2.04%)  TP=3053.19875  RR=2.111  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=22h  |  MFE=+1.58R MAE=-1.06R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.3%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-07-25 05:00:00+00:00 -> 2024-07-26 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-28 04:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3223.571667
+  Plan: entry=3224.57628  SL=3345.6351 (3.75%)  TP=2895.794  RR=2.716  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=21h  |  MFE=+0.08R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.6%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-07-28 06:00:00+00:00 -> 2024-07-29 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-07-29 12:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3374.048571
+  Plan: entry=3368.0504  SL=3279.3849 (2.63%)  TP=3633.6475  RR=2.995  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.00R MAE=-1.24R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.2%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2024-07-29 13:00:00+00:00 -> 2024-07-29 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-08-19 23:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2609.285714
+  Plan: entry=2631.08728  SL=2583.192857 (1.82%)  TP=2798.717761  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=14h  |  MFE=+1.33R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-8.0%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-08-20 00:00:00+00:00 -> 2024-08-20 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-09-27 17:00:00+00:00  ETHUSD  LONG  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2686.247
+  Plan: entry=2698.11296  SL=2602.3842 (3.55%)  TP=3033.16362  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=56h  |  MFE=+0.12R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+6.8%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2024-09-27 18:00:00+00:00 -> 2024-09-30 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-09-30 11:00:00+00:00  ETHUSD  LONG  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=3 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2628.670909
+  Plan: entry=2623.68212  SL=2519.352 (3.98%)  TP=2988.83754  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=26h  |  MFE=+0.34R MAE=-1.36R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.0%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2024-09-30 13:00:00+00:00 -> 2024-10-01 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-02 19:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2405.288333
+  Plan: entry=2376.51354  SL=2429.341216 (2.22%)  TP=2265.61375  RR=2.099  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=44h  |  MFE=+1.26R MAE=-1.23R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.0%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-10-02 20:00:00+00:00 -> 2024-10-04 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-04 17:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=2 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2444.464286
+  Plan: entry=2420.0805  SL=2468.908929 (2.02%)  TP=2265.61375  RR=3.163  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=54h  |  MFE=+0.61R MAE=-1.44R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.6%  |  alt-TF dönüş (exhaustion)=30.0/100
+  Giriş-Çıkış: 2024-10-04 18:00:00+00:00 -> 2024-10-07 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-09 21:00:00+00:00  ETHUSD  SHORT  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2403.151667
+  Plan: entry=2382.85187  SL=2418.77426 (1.51%)  TP=2265.61375  RR=3.264  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+0.40R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.1%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-10-10 00:00:00+00:00 -> 2024-10-10 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-11 13:00:00+00:00  ETHUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=10 | sr_proximity=9 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2487.95
+  Plan: entry=2436.17262  SL=2512.8295 (3.15%)  TP=2265.61375  RR=2.225  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=61h  |  MFE=+0.05R MAE=-1.18R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.5%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2024-10-11 14:00:00+00:00 -> 2024-10-14 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-15 00:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2591.925
+  Plan: entry=2617.5045  SL=2516.40675 (3.86%)  TP=2971.346625  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=205h  |  MFE=+1.50R MAE=-1.30R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.1%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2024-10-15 03:00:00+00:00 -> 2024-10-23 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-26 00:00:00+00:00  ETHUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2484.734444
+  Plan: entry=2448.6375  SL=2509.581788 (2.49%)  TP=2314.0875  RR=2.208  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=39h  |  MFE=+0.15R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.1%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2024-10-26 02:00:00+00:00 -> 2024-10-27 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-27 22:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=2 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2541.825
+  Plan: entry=2517.934563  SL=2555.893375 (1.51%)  TP=2407.975  RR=2.897  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=23h  |  MFE=+1.22R MAE=-1.89R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.1%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2024-10-27 23:00:00+00:00 -> 2024-10-28 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-29 15:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2643.478125
+  Plan: entry=2632.7449  SL=2593.253727 (1.50%)  TP=2753.068571  RR=3.047  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=43h  |  MFE=+2.27R MAE=-2.32R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-10-29 19:00:00+00:00 -> 2024-10-31 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-10-31 23:00:00+00:00  ETHUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2527.081667
+  Plan: entry=2523.64722  SL=2594.393734 (2.80%)  TP=2314.0875  RR=2.962  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=123h  |  MFE=+2.35R MAE=-1.62R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.4%  |  alt-TF dönüş (exhaustion)=48.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2024-11-01 00:00:00+00:00 -> 2024-11-06 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-11 21:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=3 | sr_proximity=4 | sr_quality=3 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3225.054
+  Plan: entry=3316.84302  SL=3192.80346 (3.74%)  TP=3689.186  RR=3.002  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=30h  |  MFE=+1.01R MAE=-1.34R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+24.7%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-11-11 22:00:00+00:00 -> 2024-11-13 04:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-13 17:00:00+00:00  ETHUSD  LONG  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=1 | sr_proximity=7 | sr_quality=3 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3219.1875
+  Plan: entry=3267.67156  SL=3186.995625 (2.47%)  TP=3506.91  RR=2.965  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.07R MAE=-1.40R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+20.1%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-11-13 18:00:00+00:00 -> 2024-11-13 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-14 04:00:00+00:00  ETHUSD  LONG  (score 65)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3219.1875
+  Plan: entry=3229.93718  SL=3181.488122 (1.50%)  TP=3349.588571  RR=2.47  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.19R MAE=-1.15R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+18.1%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-11-14 05:00:00+00:00 -> 2024-11-14 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-14 20:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=2 | sr_proximity=10 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3063.05
+  Plan: entry=3092.96168  SL=3032.4195 (1.96%)  TP=3219.1875  RR=2.085  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.48R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+12.4%  |  alt-TF dönüş (exhaustion)=48.0/100
+  Giriş-Çıkış: 2024-11-14 21:00:00+00:00 -> 2024-11-14 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-15 12:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=2 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3057.301667
+  Plan: entry=3097.47264  SL=3026.72865 (2.28%)  TP=3323.0525  RR=3.189  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.14R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+12.1%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2024-11-15 13:00:00+00:00 -> 2024-11-15 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-22 05:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3353.778571
+  Plan: entry=3369.38772  SL=3318.846904 (1.50%)  TP=3506.91  RR=2.721  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.35R MAE=-1.14R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+16.7%  |  alt-TF dönüş (exhaustion)=9.0/100
+  Giriş-Çıkış: 2024-11-22 06:00:00+00:00 -> 2024-11-22 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-23 08:00:00+00:00  ETHUSD  LONG  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3348.286667
+  Plan: entry=3362.53146  SL=3312.093488 (1.50%)  TP=3506.91  RR=2.862  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+2.68R MAE=-1.61R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+15.3%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2024-11-23 09:00:00+00:00 -> 2024-11-24 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-25 05:00:00+00:00  ETHUSD  LONG  (score 65)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3366.778
+  Plan: entry=3374.95656  SL=3324.332212 (1.50%)  TP=3552.141779  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+3.39R MAE=-1.20R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+13.9%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2024-11-25 07:00:00+00:00 -> 2024-11-26 10:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-27 22:00:00+00:00  ETHUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3634.69
+  Plan: entry=3658.5682  SL=3598.3431 (1.65%)  TP=3852.1525  RR=3.214  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.06R MAE=-1.56R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+20.8%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-11-27 23:00:00+00:00 -> 2024-11-28 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-11-28 04:00:00+00:00  ETHUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=7 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3537.855
+  Plan: entry=3596.792  SL=3502.47645 (2.62%)  TP=3852.1525  RR=2.708  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=129h  |  MFE=+1.73R MAE=-1.03R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+18.3%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2024-11-28 05:00:00+00:00 -> 2024-12-03 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-12-20 15:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3458.118
+  Plan: entry=3381.35922  SL=3492.69918 (3.29%)  TP=3105.94  RR=2.474  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.09R MAE=-1.05R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.2%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2024-12-20 16:00:00+00:00 -> 2024-12-20 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2024-12-30 22:00:00+00:00  ETHUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3366.778
+  Plan: entry=3365.64786  SL=3495.1555 (3.85%)  TP=3105.94  RR=2.005  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=63h  |  MFE=+0.40R MAE=-1.11R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.1%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2024-12-30 23:00:00+00:00 -> 2025-01-02 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-05 21:00:00+00:00  ETHUSD  LONG  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=5 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3532.59
+  Plan: entry=3638.36868  SL=3497.2641 (3.88%)  TP=3921.098571  RR=2.004  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=41h  |  MFE=+0.75R MAE=-1.59R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.1%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-01-05 22:00:00+00:00 -> 2025-01-07 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-13 19:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3031.12
+  Plan: entry=3074.632088  SL=3120.983325 (1.51%)  TP=2912.402756  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.00R MAE=-1.48R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-12.0%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-01-13 20:00:00+00:00 -> 2025-01-13 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-15 11:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3202.058
+  Plan: entry=3208.29392  SL=3256.66016 (1.51%)  TP=3105.94  RR=2.116  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.13R MAE=-1.88R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.3%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-01-15 12:00:00+00:00 -> 2025-01-15 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-16 06:00:00+00:00  ETHUSD  LONG  (score 59)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=12 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3327.635714
+  Plan: entry=3341.93655  SL=3291.807502 (1.50%)  TP=3507.422857  RR=3.301  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+0.46R MAE=-1.53R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.0%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2025-01-16 08:00:00+00:00 -> 2025-01-16 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-17 23:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3439.71
+  Plan: entry=3460.478812  SL=3408.57163 (1.50%)  TP=3642.15395  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.28R MAE=-1.78R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.8%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-01-18 01:00:00+00:00 -> 2025-01-18 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-18 08:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3323.465
+  Plan: entry=3299.79642  SL=3356.69965 (1.72%)  TP=3105.94  RR=3.407  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+1.28R MAE=-1.16R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.4%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-01-18 09:00:00+00:00 -> 2025-01-19 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-20 02:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3255.945
+  Plan: entry=3262.054434  SL=3311.231134 (1.51%)  TP=3100.4225  RR=3.287  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.23R MAE=-1.18R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.5%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-01-20 03:00:00+00:00 -> 2025-01-20 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-21 06:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3255.945
+  Plan: entry=3262.054434  SL=3311.231134 (1.51%)  TP=3107.4775  RR=3.143  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.56R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.5%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-01-21 07:00:00+00:00 -> 2025-01-21 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-23 05:00:00+00:00  ETHUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3255.945
+  Plan: entry=3221.43  SL=3288.50445 (2.08%)  TP=3031.12  RR=2.837  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=10h  |  MFE=+0.48R MAE=-1.13R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.9%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-01-23 06:00:00+00:00 -> 2025-01-23 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-25 09:00:00+00:00  ETHUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3309.165
+  Plan: entry=3290.25738  SL=3342.25665 (1.58%)  TP=3179.444  RR=2.131  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.00R MAE=-1.05R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.6%  |  alt-TF dönüş (exhaustion)=23.0/100
+  Giriş-Çıkış: 2025-01-25 10:00:00+00:00 -> 2025-01-25 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-26 04:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3329.54
+  Plan: entry=3336.051557  SL=3286.010784 (1.50%)  TP=3444.042  RR=2.158  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=15h  |  MFE=+0.18R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.6%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-01-26 07:00:00+00:00 -> 2025-01-26 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-27 07:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3109.0075
+  Plan: entry=3074.632088  SL=3120.983325 (1.51%)  TP=2912.402756  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.87R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-8.7%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-01-27 09:00:00+00:00 -> 2025-01-27 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-27 21:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3199.984286
+  Plan: entry=3196.320943  SL=3244.506686 (1.51%)  TP=3031.12  RR=3.428  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=61h  |  MFE=+3.24R MAE=-1.65R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.8%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2025-01-28 00:00:00+00:00 -> 2025-01-30 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-01-30 14:00:00+00:00  ETHUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 3246.668333
+  Plan: entry=3264.69752  SL=3165.13725 (3.05%)  TP=3505.79625  RR=2.422  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=53h  |  MFE=+1.73R MAE=-1.14R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-01-30 15:00:00+00:00 -> 2025-02-01 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-03 01:00:00+00:00  ETHUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2541.825
+  Plan: entry=2496.97398  SL=2567.24325 (2.81%)  TP=2314.0875  RR=2.603  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.71R MAE=-1.93R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-24.5%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-02-03 02:00:00+00:00 -> 2025-02-03 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-03 08:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2587.125
+  Plan: entry=2577.9456  SL=2616.614784 (1.50%)  TP=2448.416  RR=3.35  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.40R MAE=-1.51R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-21.7%  |  alt-TF dönüş (exhaustion)=15.0/100
+  Giriş-Çıkış: 2025-02-03 09:00:00+00:00 -> 2025-02-03 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-03 17:00:00+00:00  ETHUSD  SHORT  (score 64)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2709.263333
+  Plan: entry=2713.1154  SL=2790.172975 (2.84%)  TP=2541.825  RR=2.223  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.23R MAE=-1.39R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-17.3%  |  alt-TF dönüş (exhaustion)=22.0/100
+  Giriş-Çıkış: 2025-02-03 18:00:00+00:00 -> 2025-02-03 21:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-04 22:00:00+00:00  ETHUSD  SHORT  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2709.263333
+  Plan: entry=2689.35798  SL=2736.355966 (1.75%)  TP=2587.125  RR=2.175  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-1.21R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-17.2%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2025-02-04 23:00:00+00:00 -> 2025-02-05 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-06 17:00:00+00:00  ETHUSD  SHORT  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2707.815714
+  Plan: entry=2705.4  SL=2745.981 (1.50%)  TP=2587.125  RR=2.915  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+1.24R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-15.4%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-02-06 18:00:00+00:00 -> 2025-02-07 10:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-08 03:00:00+00:00  ETHUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=5 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2709.263333
+  Plan: entry=2646.94332  SL=2736.355966 (3.38%)  TP=2448.416  RR=2.22  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=114h  |  MFE=+1.42R MAE=-1.66R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-16.1%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2025-02-08 04:00:00+00:00 -> 2025-02-12 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-13 11:00:00+00:00  ETHUSD  SHORT  (score 62)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2707.782857
+  Plan: entry=2661.50238  SL=2734.860686 (2.76%)  TP=2448.416  RR=2.905  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=26h  |  MFE=+0.66R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-11.8%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-02-13 12:00:00+00:00 -> 2025-02-14 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-15 07:00:00+00:00  ETHUSD  SHORT  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2707.782857
+  Plan: entry=2703.05532  SL=2800.54315 (3.61%)  TP=2448.416  RR=2.612  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=54h  |  MFE=+0.67R MAE=-1.29R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-9.5%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-02-15 08:00:00+00:00 -> 2025-02-17 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-18 07:00:00+00:00  ETHUSD  SHORT  (score 63)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2721.12
+  Plan: entry=2677.85502  SL=2748.3312 (2.63%)  TP=2448.416  RR=3.256  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=41h  |  MFE=+1.03R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-9.0%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2025-02-18 09:00:00+00:00 -> 2025-02-20 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-21 19:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=5 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2706.49
+  Plan: entry=2645.47038  SL=2733.5549 (3.33%)  TP=2448.416  RR=2.237  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=14h  |  MFE=+0.33R MAE=-1.23R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-8.8%  |  alt-TF dönüş (exhaustion)=16.0/100
+  Giriş-Çıkış: 2025-02-21 20:00:00+00:00 -> 2025-02-22 10:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-02-22 11:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2707.782857
+  Plan: entry=2727.52402  SL=2680.705028 (1.72%)  TP=2891.39049  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=44h  |  MFE=+2.77R MAE=-1.05R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.3%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-02-22 12:00:00+00:00 -> 2025-02-24 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-04-19 07:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=2 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 1613.134286
+  Plan: entry=1604.14188  SL=1629.265629 (1.57%)  TP=1538.486  RR=2.613  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=9h  |  MFE=+0.40R MAE=-1.10R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-10.4%  |  alt-TF dönüş (exhaustion)=9.0/100
+  Giriş-Çıkış: 2025-04-19 08:00:00+00:00 -> 2025-04-19 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-01 10:00:00+00:00  ETHUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 1838.562
+  Plan: entry=1841.3342  SL=1813.714187 (1.50%)  TP=1916.3025  RR=2.714  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=21h  |  MFE=+1.15R MAE=-1.03R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.4%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-05-01 11:00:00+00:00 -> 2025-05-02 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-02 17:00:00+00:00  ETHUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 1838.562
+  Plan: entry=1841.3342  SL=1813.714187 (1.50%)  TP=1916.3025  RR=2.714  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=22h  |  MFE=+0.26R MAE=-1.13R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.3%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-05-02 19:00:00+00:00 -> 2025-05-03 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-04 06:00:00+00:00  ETHUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 1829.068
+  Plan: entry=1841.79902  SL=1810.77732 (1.68%)  TP=1916.3025  RR=2.402  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+0.01R MAE=-1.25R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.6%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-05-04 07:00:00+00:00 -> 2025-05-04 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-05 04:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 1838.562
+  Plan: entry=1815.597822  SL=1842.968643 (1.51%)  TP=1740.718  RR=2.736  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=43h  |  MFE=+2.32R MAE=-1.18R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.2%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-05-05 05:00:00+00:00 -> 2025-05-07 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-07 09:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 1838.562
+  Plan: entry=1840.35192  SL=1812.746641 (1.50%)  TP=1936.970396  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+0.00R MAE=-1.46R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.3%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-05-07 10:00:00+00:00 -> 2025-05-07 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-07 21:00:00+00:00  ETHUSD  SHORT  (score 61)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 1838.562
+  Plan: entry=1806.33546  SL=1856.94762 (2.80%)  TP=1629.1929  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.00R MAE=-1.98R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.9%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2025-05-07 22:00:00+00:00 -> 2025-05-08 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-12 08:00:00+00:00  ETHUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=10 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2556.585
+  Plan: entry=2572.3949  SL=2531.01915 (1.61%)  TP=2717.210025  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.00R MAE=-1.22R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+34.5%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-05-12 09:00:00+00:00 -> 2025-05-12 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-13 23:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2628.254545
+  Plan: entry=2674.35058  SL=2601.972 (2.71%)  TP=2927.675612  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=8h  |  MFE=+0.71R MAE=-1.20R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+35.8%  |  alt-TF dönüş (exhaustion)=18.0/100
+  Giriş-Çıkış: 2025-05-14 00:00:00+00:00 -> 2025-05-14 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-15 01:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_macd=1 | sr_proximity=12 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2559.388
+  Plan: entry=2572.46476  SL=2533.79412 (1.50%)  TP=2681.883636  RR=2.83  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.62R MAE=-1.47R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+28.1%  |  alt-TF dönüş (exhaustion)=11.0/100
+  Giriş-Çıkış: 2025-05-15 02:00:00+00:00 -> 2025-05-15 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-15 16:00:00+00:00  ETHUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=3 | sr_proximity=10 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2559.388
+  Plan: entry=2593.82196  SL=2533.79412 (2.31%)  TP=2746.908889  RR=2.55  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-1.21R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+27.9%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-05-15 17:00:00+00:00 -> 2025-05-15 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-16 07:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=7 | sr_quality=3 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2555.3025
+  Plan: entry=2596.297  SL=2529.749475 (2.56%)  TP=2746.908889  RR=2.263  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=14h  |  MFE=+0.80R MAE=-1.00R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+26.7%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-05-16 08:00:00+00:00 -> 2025-05-16 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-18 15:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=5 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2515.17
+  Plan: entry=2573.83202  SL=2490.0183 (3.26%)  TP=2745.594444  RR=2.049  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.02R MAE=-1.09R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+22.0%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2025-05-18 16:00:00+00:00 -> 2025-05-18 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-20 02:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=3 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2558.834
+  Plan: entry=2561.866  SL=2487.61854 (2.90%)  TP=2747.82125  RR=2.505  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=9h  |  MFE=+0.22R MAE=-1.12R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+19.9%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-05-20 03:00:00+00:00 -> 2025-05-20 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-21 01:00:00+00:00  ETHUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2511.937778
+  Plan: entry=2529.07172  SL=2486.8184 (1.67%)  TP=2625.440909  RR=2.281  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=15h  |  MFE=+2.06R MAE=-1.82R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+17.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-05-21 02:00:00+00:00 -> 2025-05-21 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-23 02:00:00+00:00  ETHUSD  LONG  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2684.417143
+  Plan: entry=2699.90936  SL=2597.638372 (3.79%)  TP=3030.594  RR=3.233  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=7h  |  MFE=+0.06R MAE=-1.46R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+22.3%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-05-23 04:00:00+00:00 -> 2025-05-23 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-23 20:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=3 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2508.9475
+  Plan: entry=2538.14354  SL=2483.858025 (2.14%)  TP=2728.142843  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+0.69R MAE=-1.15R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+14.0%  |  alt-TF dönüş (exhaustion)=7.0/100
+  Giriş-Çıkış: 2025-05-23 21:00:00+00:00 -> 2025-05-25 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-25 01:00:00+00:00  ETHUSD  SHORT  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2509.191429
+  Plan: entry=2500.70142  SL=2594.9021 (3.77%)  TP=2170.99904  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=29h  |  MFE=+0.40R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+10.8%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2025-05-25 02:00:00+00:00 -> 2025-05-26 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-26 08:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2508.540769
+  Plan: entry=2562.864  SL=2483.455361 (3.10%)  TP=2840.794235  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=112h  |  MFE=+2.83R MAE=-1.10R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+12.9%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2025-05-26 09:00:00+00:00 -> 2025-05-31 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-05-31 02:00:00+00:00  ETHUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2509.60625
+  Plan: entry=2492.114312  SL=2529.683875 (1.51%)  TP=2360.620844  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.00R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.5%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-05-31 03:00:00+00:00 -> 2025-05-31 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-01 09:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2508.646875
+  Plan: entry=2497.24452  SL=2593.32953 (3.85%)  TP=2160.946985  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=36h  |  MFE=+0.30R MAE=-1.23R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.0%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-06-01 11:00:00+00:00 -> 2025-06-02 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-04 08:00:00+00:00  ETHUSD  LONG  (score 67)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2634.392
+  Plan: entry=2635.70802  SL=2542.718285 (3.53%)  TP=2961.172093  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=34h  |  MFE=+0.47R MAE=-1.39R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+9.8%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-06-04 09:00:00+00:00 -> 2025-06-05 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-12 03:00:00+00:00  ETHUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=5 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2678.678571
+  Plan: entry=2759.54984  SL=2651.891785 (3.90%)  TP=3136.353031  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+0.16R MAE=-1.33R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+11.4%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-06-12 04:00:00+00:00 -> 2025-06-12 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-15 17:00:00+00:00  ETHUSD  LONG  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2508.206111
+  Plan: entry=2548.6425  SL=2483.12405 (2.57%)  TP=2777.957075  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=45h  |  MFE=+2.01R MAE=-1.01R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.2%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-06-15 18:00:00+00:00 -> 2025-06-17 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-20 00:00:00+00:00  ETHUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2505.691
+  Plan: entry=2520.51886  SL=2435.07726 (3.39%)  TP=2692.87  RR=2.017  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=16h  |  MFE=+0.57R MAE=-1.79R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-06-20 01:00:00+00:00 -> 2025-06-20 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-23 22:00:00+00:00  ETHUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=10 | sr_proximity=9 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2459.674
+  Plan: entry=2418.593763  SL=2455.054975 (1.51%)  TP=2290.979519  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+1.17R MAE=-1.74R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.7%  |  alt-TF dönüş (exhaustion)=12.0/100
+  Giriş-Çıkış: 2025-06-23 23:00:00+00:00 -> 2025-06-24 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-27 01:00:00+00:00  ETHUSD  SHORT  (score 62)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2463.401667
+  Plan: entry=2431.02234  SL=2488.035684 (2.35%)  TP=2231.475637  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=68h  |  MFE=+0.75R MAE=-1.39R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=38.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2025-06-27 02:00:00+00:00 -> 2025-06-29 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-30 03:00:00+00:00  ETHUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2463.401667
+  Plan: entry=2494.21158  SL=2438.76765 (2.22%)  TP=2629.145  RR=2.434  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=10h  |  MFE=+0.17R MAE=-1.14R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.5%  |  alt-TF dönüş (exhaustion)=18.0/100
+  Giriş-Çıkış: 2025-06-30 04:00:00+00:00 -> 2025-06-30 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-06-30 23:00:00+00:00  ETHUSD  LONG  (score 52)  [REVERSAL playbook — 4H CHoCH]
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: CHOCH_BULL @ 2463.54
+  Plan: entry=2482.98453  SL=2387.88 (3.83%)  TP=2692.87  RR=2.207  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=23h  |  MFE=+0.19R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.9%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2025-07-01 00:00:00+00:00 -> 2025-07-01 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-07-02 00:00:00+00:00  ETHUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=5 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2463.401667
+  Plan: entry=2414.86301  SL=2451.26798 (1.51%)  TP=2287.445615  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.00R MAE=-1.07R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.6%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-07-02 02:00:00+00:00 -> 2025-07-02 06:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-07-02 23:00:00+00:00  ETHUSD  LONG  (score 66)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2561.688
+  Plan: entry=2565.26918  SL=2526.790142 (1.50%)  TP=2692.87  RR=3.316  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=37h  |  MFE=+1.82R MAE=-1.12R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.3%  |  alt-TF dönüş (exhaustion)=33.0/100
+  Giriş-Çıkış: 2025-07-03 00:00:00+00:00 -> 2025-07-04 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-09-04 03:00:00+00:00  ETHUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 4369.141818
+  Plan: entry=4389.23394  SL=4323.395431 (1.50%)  TP=4619.668722  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=11h  |  MFE=+0.68R MAE=-1.46R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.8%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2025-09-04 04:00:00+00:00 -> 2025-09-04 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-09-05 08:00:00+00:00  ETHUSD  LONG  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 4367.166
+  Plan: entry=4397.51734  SL=4323.49434 (1.68%)  TP=4652.9125  RR=3.45  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+1.25R MAE=-1.81R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.8%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-09-05 09:00:00+00:00 -> 2025-09-05 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-09-15 08:00:00+00:00  ETHUSD  LONG  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=10 | sr_proximity=5 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 4369.799167
+  Plan: entry=4499.18601  SL=4431.69822 (1.50%)  TP=4654.842222  RR=2.306  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=28h  |  MFE=+0.63R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+4.0%  |  alt-TF dönüş (exhaustion)=31.0/100
+  Giriş-Çıkış: 2025-09-15 09:00:00+00:00 -> 2025-09-16 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-09-19 10:00:00+00:00  ETHUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 4467.133636
+  Plan: entry=4497.376675  SL=4429.916025 (1.50%)  TP=4636.025  RR=2.055  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=58h  |  MFE=+0.17R MAE=-2.60R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.4%  |  alt-TF dönüş (exhaustion)=14.0/100
+  Giriş-Çıkış: 2025-09-19 14:00:00+00:00 -> 2025-09-22 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-08 11:00:00+00:00  ETHUSD  LONG  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=2 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 4460.2775
+  Plan: entry=4478.3254  SL=4411.150519 (1.50%)  TP=4627.138  RR=2.215  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=14h  |  MFE=+1.19R MAE=-1.19R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.1%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-10-08 12:00:00+00:00 -> 2025-10-09 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-12 05:00:00+00:00  ETHUSD  SHORT  (score 51)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3857.9925
+  Plan: entry=3813.94266  SL=3896.572425 (2.17%)  TP=3610.81  RR=2.458  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=8h  |  MFE=+0.25R MAE=-2.58R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-11.6%  |  alt-TF dönüş (exhaustion)=19.0/100
+  Giriş-Çıkış: 2025-10-12 06:00:00+00:00 -> 2025-10-12 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-13 07:00:00+00:00  ETHUSD  SHORT  (score 56)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=3 | momentum_ema=10 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 4226.108
+  Plan: entry=4186.6566  SL=4268.36908 (1.95%)  TP=3900.66292  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=11h  |  MFE=+1.77R MAE=-1.03R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.6%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-10-13 08:00:00+00:00 -> 2025-10-13 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-13 20:00:00+00:00  ETHUSD  LONG  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 4226.108
+  Plan: entry=4277.63758  SL=4183.84692 (2.19%)  TP=4605.90489  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.00R MAE=-1.17R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.0%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-10-13 21:00:00+00:00 -> 2025-10-14 02:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-17 07:00:00+00:00  ETHUSD  SHORT  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3762.527143
+  Plan: entry=3764.00298  SL=3892.2269 (3.41%)  TP=3315.21926  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=23h  |  MFE=+0.70R MAE=-1.28R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-11.3%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-10-17 08:00:00+00:00 -> 2025-10-18 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-19 00:00:00+00:00  ETHUSD  SHORT  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=5 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3952.995
+  Plan: entry=3876.90834  SL=3992.52495 (2.98%)  TP=3610.81  RR=2.302  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=11h  |  MFE=+0.43R MAE=-1.08R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.8%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-10-19 03:00:00+00:00 -> 2025-10-19 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-21 11:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3949.551111
+  Plan: entry=3897.85014  SL=3989.046622 (2.34%)  TP=3690.68  RR=2.272  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.50R MAE=-1.39R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.6%  |  alt-TF dönüş (exhaustion)=40.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2025-10-21 12:00:00+00:00 -> 2025-10-21 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-22 03:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3860.6025
+  Plan: entry=3867.28914  SL=3989.046622 (3.15%)  TP=3610.81  RR=2.106  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=49h  |  MFE=+1.29R MAE=-1.00R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.2%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-10-22 04:00:00+00:00 -> 2025-10-24 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-25 06:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3944.2725
+  Plan: entry=3936.59748  SL=4092.053156 (3.95%)  TP=3610.81  RR=2.096  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=30h  |  MFE=+0.11R MAE=-1.04R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.5%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2025-10-25 07:00:00+00:00 -> 2025-10-26 13:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-26 18:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 4051.537778
+  Plan: entry=4064.08554  SL=3904.7436 (3.92%)  TP=4460.2775  RR=2.486  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=70h  |  MFE=+1.19R MAE=-1.40R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-10-26 20:00:00+00:00 -> 2025-10-29 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-10-30 22:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3856.556
+  Plan: entry=3791.35758  SL=3895.12156 (2.74%)  TP=3428.18365  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=20h  |  MFE=+0.00R MAE=-1.11R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.3%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-10-30 23:00:00+00:00 -> 2025-10-31 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-01 00:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2874.522857
+  Plan: entry=2842.0728  SL=2903.268086 (2.15%)  TP=2627.889301  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=37h  |  MFE=+2.06R MAE=-1.11R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-13.0%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2025-12-01 01:00:00+00:00 -> 2025-12-02 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-06 19:00:00+00:00  ETHUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 3063.834
+  Plan: entry=3047.1477  SL=3093.0846 (1.51%)  TP=2886.36855  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=19h  |  MFE=+3.04R MAE=-1.90R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.1%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2025-12-06 22:00:00+00:00 -> 2025-12-07 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-09 02:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=9 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 3167.61125
+  Plan: entry=3104.81724  SL=3199.287362 (3.04%)  TP=2886.9775  RR=2.306  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=12h  |  MFE=+0.12R MAE=-1.61R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.5%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2025-12-09 03:00:00+00:00 -> 2025-12-09 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-23 06:00:00+00:00  ETHUSD  SHORT  (score 68)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2994.120667
+  Plan: entry=2965.82982  SL=3024.061874 (1.96%)  TP=2789.0675  RR=3.035  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=140h  |  MFE=+1.32R MAE=-1.42R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.4%  |  alt-TF dönüş (exhaustion)=3.0/100
+  Giriş-Çıkış: 2025-12-23 07:00:00+00:00 -> 2025-12-29 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-29 12:00:00+00:00  ETHUSD  SHORT  (score 67)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2945.891429
+  Plan: entry=2936.8119  SL=3022.486162 (2.92%)  TP=2636.951985  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=49h  |  MFE=+0.27R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.9%  |  alt-TF dönüş (exhaustion)=38.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2025-12-29 13:00:00+00:00 -> 2025-12-31 14:00:00+00:00
+
+────────────────────────────────────────────────────────
+2025-12-31 23:00:00+00:00  ETHUSD  SHORT  (score 53)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2995.1985
+  Plan: entry=2977.58328  SL=3025.150485 (1.60%)  TP=2811.098062  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=27h  |  MFE=+0.10R MAE=-1.21R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.1%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2026-01-01 00:00:00+00:00 -> 2026-01-02 03:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-01-15 14:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=9 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 3269.681538
+  Plan: entry=3335.62538  SL=3236.984723 (2.96%)  TP=3679.161667  RR=3.483  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=81h  |  MFE=+0.34R MAE=-1.60R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+7.4%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2026-01-15 15:00:00+00:00 -> 2026-01-19 00:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-01-21 09:00:00+00:00  ETHUSD  SHORT  (score 57)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2995.522381
+  Plan: entry=2959.99818  SL=3025.477605 (2.21%)  TP=2789.0675  RR=2.61  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=5h  |  MFE=+0.89R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-6.0%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2026-01-21 10:00:00+00:00 -> 2026-01-21 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-01-26 13:00:00+00:00  ETHUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2939.333636
+  Plan: entry=2914.837575  SL=2958.77985 (1.51%)  TP=2788.837778  RR=2.867  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=26h  |  MFE=+0.66R MAE=-1.90R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.8%  |  alt-TF dönüş (exhaustion)=26.0/100
+  Giriş-Çıkış: 2026-01-26 14:00:00+00:00 -> 2026-01-27 16:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-09 12:00:00+00:00  ETHUSD  SHORT  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=3 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2024.842
+  Plan: entry=2006.19438  SL=2045.09042 (1.94%)  TP=1915.764  RR=2.325  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=6h  |  MFE=+0.01R MAE=-1.22R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-5.2%  |  alt-TF dönüş (exhaustion)=25.0/100
+  Giriş-Çıkış: 2026-03-09 13:00:00+00:00 -> 2026-03-09 19:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-19 12:00:00+00:00  ETHUSD  SHORT  (score 55)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2149.095714
+  Plan: entry=2136.7149  SL=2170.586671 (1.59%)  TP=2026.311818  RR=3.259  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=19h  |  MFE=+1.10R MAE=-1.19R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.0%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2026-03-19 13:00:00+00:00 -> 2026-03-20 08:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-22 22:00:00+00:00  ETHUSD  SHORT  (score 58)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2081.99
+  Plan: entry=2066.79534  SL=2102.8099 (1.74%)  TP=1988.406429  RR=2.177  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=12h  |  MFE=+1.22R MAE=-3.66R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.2%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2026-03-22 23:00:00+00:00 -> 2026-03-23 11:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-23 20:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2156.752
+  Plan: entry=2157.16702  SL=2124.809515 (1.50%)  TP=2270.418289  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=4h  |  MFE=+0.07R MAE=-1.02R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+1.5%  |  alt-TF dönüş (exhaustion)=35.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2026-03-23 21:00:00+00:00 -> 2026-03-24 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-25 10:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2160.200833
+  Plan: entry=2167.75485  SL=2135.238527 (1.50%)  TP=2281.56198  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=17h  |  MFE=+0.94R MAE=-1.67R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.5%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2026-03-25 12:00:00+00:00 -> 2026-03-26 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-28 19:00:00+00:00  ETHUSD  SHORT  (score 65)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2028.030667
+  Plan: entry=2024.60112  SL=2054.970137 (1.50%)  TP=1918.309561  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=33h  |  MFE=+2.83R MAE=-1.13R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-4.6%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2026-03-28 20:00:00+00:00 -> 2026-03-30 05:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-30 14:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=4 | momentum_rsi=5 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2070.917647
+  Plan: entry=2060.978625  SL=2030.063946 (1.50%)  TP=2149.931429  RR=2.877  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.36R MAE=-1.06R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2026-03-30 16:00:00+00:00 -> 2026-03-30 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-03-31 15:00:00+00:00  ETHUSD  SHORT  (score 62)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2070.56
+  Plan: entry=2058.9597  SL=2091.2656 (1.57%)  TP=1945.88905  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.00R MAE=-2.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-2.3%  |  alt-TF dönüş (exhaustion)=35.0/100 !!HARD-FLIP
+  Giriş-Çıkış: 2026-03-31 16:00:00+00:00 -> 2026-03-31 17:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-02 10:00:00+00:00  ETHUSD  SHORT  (score 63)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2071.114706
+  Plan: entry=2042.86758  SL=2091.825853 (2.40%)  TP=1915.764  RR=2.596  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=81h  |  MFE=+0.44R MAE=-1.65R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-3.1%  |  alt-TF dönüş (exhaustion)=20.0/100
+  Giriş-Çıkış: 2026-04-02 14:00:00+00:00 -> 2026-04-05 23:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-07 08:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=15 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2106.749375
+  Plan: entry=2105.980012  SL=2074.390312 (1.50%)  TP=2173.255  RR=2.13  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=2h  |  MFE=+0.00R MAE=-1.01R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.8%  |  alt-TF dönüş (exhaustion)=4.0/100
+  Giriş-Çıkış: 2026-04-07 10:00:00+00:00 -> 2026-04-07 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-07 17:00:00+00:00  ETHUSD  SHORT  (score 65)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2106.749375
+  Plan: entry=2103.699  SL=2185.6198 (3.89%)  TP=1915.764  RR=2.294  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=3h  |  MFE=+0.00R MAE=-1.42R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+0.1%  |  alt-TF dönüş (exhaustion)=0.0/100
+  Giriş-Çıkış: 2026-04-07 19:00:00+00:00 -> 2026-04-07 22:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-08 11:00:00+00:00  ETHUSD  LONG  (score 50)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2211.115
+  Plan: entry=2211.6097  SL=2178.435555 (1.50%)  TP=2327.71921  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=11h  |  MFE=+0.84R MAE=-1.50R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+6.8%  |  alt-TF dönüş (exhaustion)=15.0/100
+  Giriş-Çıkış: 2026-04-08 14:00:00+00:00 -> 2026-04-09 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-11 23:00:00+00:00  ETHUSD  LONG  (score 54)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2250.64
+  Plan: entry=2280.42002  SL=2228.1336 (2.29%)  TP=2463.42249  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=1h  |  MFE=+0.16R MAE=-1.36R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+7.5%  |  alt-TF dönüş (exhaustion)=13.0/100
+  Giriş-Çıkış: 2026-04-12 00:00:00+00:00 -> 2026-04-12 01:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-16 11:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=16 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=1 | sr_proximity=12 | sr_quality=4 | structural_events=4 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2303.245714
+  Plan: entry=2330.99866  SL=2280.213257 (2.18%)  TP=2508.747571  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=79h  |  MFE=+2.64R MAE=-1.13R  |  yarı-yola ulaştı=True
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+7.8%  |  alt-TF dönüş (exhaustion)=21.0/100
+  Giriş-Çıkış: 2026-04-16 13:00:00+00:00 -> 2026-04-19 20:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-19 21:00:00+00:00  ETHUSD  SHORT  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_RESISTANCE @ 2296.311111
+  Plan: entry=2280.64218  SL=2319.274222 (1.69%)  TP=2200.11  RR=2.085  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=7h  |  MFE=+0.45R MAE=-1.35R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+3.4%  |  alt-TF dönüş (exhaustion)=5.0/100
+  Giriş-Çıkış: 2026-04-20 00:00:00+00:00 -> 2026-04-20 07:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-20 12:00:00+00:00  ETHUSD  LONG  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=2 | momentum_ema=10 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: H4_SUPPORT @ 2297.3975
+  Plan: entry=2314.24224  SL=2224.774672 (3.87%)  TP=2627.37873  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=221h  |  MFE=+1.22R MAE=-1.05R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+5.2%  |  alt-TF dönüş (exhaustion)=28.0/100
+  Giriş-Çıkış: 2026-04-20 13:00:00+00:00 -> 2026-04-29 18:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-04-29 23:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=10 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2274.2775
+  Plan: entry=2257.4058  SL=2297.020275 (1.75%)  TP=2162.903333  RR=2.386  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=36h  |  MFE=+0.65R MAE=-1.36R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-0.1%  |  alt-TF dönüş (exhaustion)=8.0/100
+  Giriş-Çıkış: 2026-04-30 00:00:00+00:00 -> 2026-05-01 12:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-05-11 19:00:00+00:00  ETHUSD  LONG  (score 49)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_rsi=2 | momentum_ema=7 | momentum_macd=1 | sr_proximity=5 | sr_quality=4 | structural_events=2 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_SUPPORT @ 2272.544
+  Plan: entry=2335.74914  SL=2249.81856 (3.68%)  TP=2636.50617  RR=3.5  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=40h  |  MFE=+0.06R MAE=-1.18R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=+2.2%  |  alt-TF dönüş (exhaustion)=16.0/100
+  Giriş-Çıkış: 2026-05-11 23:00:00+00:00 -> 2026-05-13 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-05-13 16:00:00+00:00  ETHUSD  SHORT  (score 52)
+  Karar gerekçesi (puan dökümü): macro_trend=8 | momentum_rsi=5 | momentum_ema=7 | momentum_macd=5 | sr_proximity=15 | sr_quality=4 | structural_events=5 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2269.831667
+  Plan: entry=2256.854025  SL=2290.87695 (1.51%)  TP=2162.903333  RR=2.761  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=22h  |  MFE=+0.54R MAE=-1.26R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-1.7%  |  alt-TF dönüş (exhaustion)=10.0/100
+  Giriş-Çıkış: 2026-05-13 17:00:00+00:00 -> 2026-05-14 15:00:00+00:00
+
+────────────────────────────────────────────────────────
+2026-05-23 00:00:00+00:00  ETHUSD  SHORT  (score 60)
+  Karar gerekçesi (puan dökümü): macro_trend=25 | momentum_ema=7 | momentum_macd=3 | sr_proximity=15 | sr_quality=4 | structural_events=3 | ls_ratio=1 | funding_rate=1 | oi_behavior=1
+  En yakın majör seviye / tetik: D1_RESISTANCE @ 2066.452
+  Plan: entry=2068.75926  SL=2125.808946 (2.76%)  TP=1915.764  RR=2.682  pos=$10000
+  SONUÇ: SL  |  R=-1.00  |  tutuş=19h  |  MFE=+1.04R MAE=-1.37R  |  yarı-yola ulaştı=False
+  Giriş-bağlamı (R&D): 4H EMA200'e uzaklık=-7.6%  |  alt-TF dönüş (exhaustion)=15.0/100
+  Giriş-Çıkış: 2026-05-23 01:00:00+00:00 -> 2026-05-23 20:00:00+00:00
+
