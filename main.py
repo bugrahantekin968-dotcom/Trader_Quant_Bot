@@ -101,7 +101,7 @@ class BotConfig:
 	mt5_login:		   int = 7943052
 	mt5_password:	   str = "uLgT5#8B"
 	mt5_server:		   str = "Eightcap-Demo"
-	anthropic_api_key: str = "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"
+	anthropic_api_key: str = ""
 	# 2026-08-01 (maliyet minimizasyonu): claude-sonnet-4-6 -> claude-haiku-4-5.
 	# Giris karari artik LLM'siz (llm_entry_enabled=False, scorer-only); kalan
 	# cagrilar basit yargi isleri (exhaustion hakemi, %75 danisma, post-mortem)
